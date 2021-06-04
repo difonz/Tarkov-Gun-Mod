@@ -1,0 +1,5291 @@
+,Name,Mods,Type,slot,Weight,GridSize,SoldBy,Recoil,Distance,Ergo,FireMode,ROF,Sight,Caliber,DefaultMag,MuzzleVelocity,Ammo
+0,ADAR 2-15 .223 Carbine,"
+
+ADAR 2-15 wooden stock
+Hera Arms CQR pistol grip-stock
+Colt A2 AR-15 pistol grip
+DI ECS FDE pistol grip for AR-15 based systems
+Hera Arms HG-15 pistol grip for AR-15 based systems
+HK ""Battle Grip"" pistol grip for AR-15 based systems
+HK Battle Grip with Beavertail pistol grip for AR-15 based systems
+HK Ergo PSG-1 style pistol grip for AR-15 based systems
+HK Grip V.2 pistol grip for AR-15 based systems
+Hogue OverMolded Rubber Grip
+Hogue OverMolded Rubber Grip FDE
+Hogue OverMolded Rubber Grip Ghillie Earth
+Hogue OverMolded Rubber Grip Ghillie Green
+Hogue OverMolded Rubber Grip OD Green
+MIAD Pistol grip for AR-15 based systems
+Magpul MOE AR-15 pistol grip
+Magpul MOE AR-15 pistol grip (FDE)
+Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons
+Stark AR Rifle Grip (black) for AR-15-compatible weapons
+Stark AR Rifle Grip (FDE) for AR-15-compatible weapons
+Skeletonized AR-15 pistol grip
+DLG-123 pistol grip for AR-15 based systems
+,
+
+Upper receiver ADAR 2-15 5.56x45 for 2-15 assault rifle
+Upper receiver Colt M4A1 5.56x45 for M4A1 assault rifle
+Lightweight upper 5.56x45 for TX15 rifle
+Noveske Gen.3 5.56x45 Upper receiver for AR systems
+Vltor MUR-1S 5.56x45 Upper receiver for AR systems
+,
+
+COLT ""A2"" buffer tube
+ADAR buffer tube
+Colt buffer tube
+Double Star Ace Socom gen.4 stock for AR-15
+F93 Pro Stock
+UBR GEN2 black stock
+UBR GEN2 FDE stock
+SI Advanced receiver extension buffer tube
+SI Advanced receiver extension buffer tube (anodized red)
+Troy M7A1 PDW Blk stock
+Troy M7A1 PDW FDE stock
+,
+
+Colt AR-15 5.56x45 STANAG 30-round magazine
+HK Steel Maritime 5.56x45 STANAG 30-round magazine
+HK PM Gen.2 5.56x45 STANAG 30-round magazine
+HK Polymer mag 30 5.56x45 STANAG 30-round magazine
+Magpul PMAG D-60 5.56x45 60-round magazine
+PMAG GEN M3 10 5.56x45 STANAG 10-round magazine
+PMAG GEN M3 20 5.56x45 STANAG 20-round magazine
+PMAG GEN M3 30 5.56x45 STANAG 30-round magazine
+PMAG GEN M3 30 5.56x45 STANAG 30-round magazine (FDE)
+40-round PMAG GEN M3 40 5.56x45 STANAG magazine
+40-round PMAG GEN M3 FDE 40 5.56x45 STANAG magazine
+PMAG GEN M3 W 30 5.56x45 STANAG 30-round magazine
+PMAG GEN M3 FDE W 30 5.56x45 STANAG 30-round magazine
+100-round MAG5-100 5.56x45 STANAG magazine
+60-round MAG5-60 5.56x45 STANAG magazine
+TROY Battlemag 5.56x45 STANAG 30-round magazine
+,
+
+ADAR 2-15 charging handle for AR-15
+Badger Ordnance Tactical Charging Handle Latch
+Colt AR-15 charging handle for AR-15
+HK Extended latch Charging Handle
+Raptor charging handle for AR-15
+Raptor charging handle for AR-15 Grey
+Geissele ACH charging handle for AR-15
+Avalanche Mod.2 charging handle for AR-15
+MASP Ambi battle charging handle for AR-15
+,",Assault rifle,Primary,2.879 kg,5x2,Skier LL1: Standard and stripped variant,Vertical: 149Horizontal: 407,500 m,59,Single,800,100,5.56x45mm NATO,5.56x45 mm M855,866 m/s,"Colt AR-15 5.56x45 STANAG 30-round magazine
+5.56x45 mm 55 FMJ
+5.56x45 mm 55 HP
+5.56x45 mm M855
+5.56x45 mm M855A1
+5.56x45 mm M856
+5.56x45 mm M856A1
+5.56x45 mm M995
+5.56x45 mm Mk 255 Mod 0
+5.56x45 mm Mk 318 Mod 0 (SOST)
+5.56x45 mm SSA AP
+5.56x45 mm Warmage"
+1,AK-101 5.56x45 assault rifle,"
+
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Handguard with a gas block combo by TROY Industries for AK
+Kiba Arms VDM CS gas tube
+Molot AKM type gas tube
+UltiMAK M1-B gas tube for AK
+VS-24 Handguard with a VS-33c gas block combo for AK
+VS-24 white handguard with a VS-33c gas block combo for AK
+,
+
+GP-34 underbarrel grenade launcher
+,
+
+CNC Warrior AK 5.56x45 mm muzzle device adapter
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Izhmash 5.56x45 AK-101 muzzlebrake & compensator
+Izhmash 5.56x45 AK-102 muzzlebrake & compensator (6P44 0-20)
+PWS CQB 5.56 x 45 Muzzle brake
+Rotor 43 5.56x45 muzzle brake
+SRVV 5.45x39 AK-74 muzzle brake
+JMAC RRD-4C muzzle brake for AK-74 type thread
+,
+
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AK-12 regular pistol grip
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+Izhmash AKM bakelite pistol grip
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+PP-19-01 Izhmash pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Wooden Izhmash AKM pistol grip for AK
+Zenit RK-3 AK pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+Izhmash AK-74 dust cover (6P1 0-1)
+Izhmash AK-74M dust cover (6P34 0-1)
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AK-105 Standard Rearsight (6P44 Sb.1-30)
+AK-74 Standard Rearsight (6P1 Sb.2)
+AK-74M Standard Rearsight (6P20 Sb.2)
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+AK74/AK100 PT Lock
+CAA AKTS AK-74 Buffer Tube for AK and compatible (foldable)
+Izhmash RPK-16 buffer tube
+Polymer stock for AK-74M (6P34 Sb.15)
+,
+
+Arsenal CWP 30-round 5.56x45 magazine for SLR-106 and compatible weapons
+6L29 30-round 5.56x45 magazine for AK-101 and compatible weapons
+,
+
+Axion Cobra mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+Cobra EKP-8-02 reflex sight
+KMZ 1P59 Dovetail mount
+NPZ USP-1 4x scope
+NSPU-M night Scope
+OKP-7 reflex sight (Dovetail)
+Pilad 043-02 Mount
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,2.392 kg,5x2,Mechanic LL2,Vertical: 135Horizontal: 395,650 m,35,SingleFull Auto,650,100 m,5.56x45mm NATO,5.56x45 mm 55 FMJ,974 m/s,"6L29 30-round 5.56x45 magazine for AK-101 and compatible weapons
+5.56x45 mm 55 FMJ
+5.56x45 mm 55 HP
+5.56x45 mm M855
+5.56x45 mm M855A1
+5.56x45 mm M856
+5.56x45 mm M856A1
+5.56x45 mm M995
+5.56x45 mm Mk 255 Mod 0
+5.56x45 mm Mk 318 Mod 0 (SOST)
+5.56x45 mm SSA AP
+5.56x45 mm Warmage"
+2,AK-102 5.56x45 assault rifle,"
+
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Molot AKM type gas tube
+UltiMAK M1-B gas tube for AK
+,
+
+CNC Warrior AK 5.56x45 mm muzzle device adapter
+Izhmash 5.56x45 AK-101 muzzlebrake & compensator
+Izhmash 5.56x45 AK-102 muzzlebrake & compensator (6P44 0-20)
+SRVV 5.45x39 AK-74 muzzle brake
+PWS CQB 5.56 x 45 Muzzle brake
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Rotor 43 5.56x45 muzzle brake
+JMAC RRD-4C muzzle brake for AK-74 type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+Izhmash AK-74 dust cover (6P1 0-1)
+Izhmash AK-74M dust cover (6P34 0-1)
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AK-105 Standard Rearsight (6P44 Sb.1-30)
+AK-74 Standard Rearsight (6P1 Sb.2)
+AK-74M Standard Rearsight (6P20 Sb.2)
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+Polymer stock for AK-74M (6P34 Sb.15)
+CAA AKTS AK-74 Buffer Tube for AK and compatible (foldable)
+AK74/AK100 PT Lock
+Izhmash RPK-16 buffer tube
+,
+
+6L29 30-round 5.56x45 magazine for AK-101 and compatible weapons
+Arsenal CWP 30-round 5.56x45 magazine for SLR-106 and compatible weapons
+,
+
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,1.992 kg,4x2,Mechanic LL3,Vertical: 139Horizontal: 392,650 m,43,SingleFull Auto,600,100,5.56x45mm NATO,5.56x45 mm 55 FMJ,974 m/s,"6L29 30-round 5.56x45 magazine for AK-101 and compatible weapons
+5.56x45 mm 55 FMJ
+5.56x45 mm 55 HP
+5.56x45 mm M855
+5.56x45 mm M855A1
+5.56x45 mm M856
+5.56x45 mm M856A1
+5.56x45 mm M995
+5.56x45 mm Mk 255 Mod 0
+5.56x45 mm Mk 318 Mod 0 (SOST)
+5.56x45 mm SSA AP
+5.56x45 mm Warmage"
+3,AK-103 7.62x39 assault rifle,"
+
+Kiba Arms VDM CS gas tube
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Molot AKM type gas tube
+Handguard with a gas block combo by TROY Industries for AK
+UltiMAK M1-B gas tube for AK
+VS-24 Handguard with a VS-33c gas block combo for AK
+VS-24 white handguard with a VS-33c gas block combo for AK
+,
+
+GP-34 underbarrel grenade launcher
+,
+
+Hexagon ""DTKP MK.2"" 7.62x39 sound suppressor
+Izhmash 7.62x39 AK-103 muzzlebrake & compensator
+Izhmash 7.62x39 AK-104 muzzlebrake & compensator (6P46 0-20)
+Spike tactical dynacomp 7.62x39 muzzle brake & compensator for AK
+SRVV 7.62x39 AK muzzle brake & compensator
+Zenit DTK-1 7.62x39 & 5.45x39 muzzle brake & compensator for AK
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+PBS-1 7.62x39 silencer
+Zenit DTK-4M muzzle brake
+Rotor 43 7.62x39 muzzle brake
+JMAC RRD-4C muzzle brake for AK-74 type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+Izhmash AK-74 dust cover (6P1 0-1)
+Izhmash AK-74M dust cover (6P34 0-1)
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AK-105 Standard Rearsight (6P44 Sb.1-30)
+AK-74 Standard Rearsight (6P1 Sb.2)
+AK-74M Standard Rearsight (6P20 Sb.2)
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+Polymer stock for AK-74M (6P34 Sb.15)
+CAA AKTS AK-74 Buffer Tube for AK and compatible (foldable)
+AK74/AK100 PT Lock
+Izhmash RPK-16 buffer tube
+,
+
+7.62x39 ribbed metal magazine for AK and compatibles, 10-round capacity
+Izhmash 6L10 7.62x39 magazine for AK and compatibles, 30-round capacity
+30-round 7.62x39 magazine for AK-103 and compatible weapons
+Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles
+Izhmash 7.62x39 AK aluminium magazine for AK and compatibles, 10-round capacity
+Izhmash 7.62x39 AKMS aluminium magazine for AK and compatibles, 30-round capacity
+Molot 6P2.Sb-11 7.62x39 magazine for AK and compatibles, 40-round capacity
+Bakelite 7.62x39 magazine for AK and compatibles, 40-round capacity
+PMAG 30 AK/AKM GEN M3 7.62x39 magazine for AK and compatibles, 30-round capacity
+Molot magazine for AK and compatibles, 75-round capacity
+ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (black)
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (FDE)
+X-47 AK 7.62x39 50 rnd magazine
+,
+
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,2.392 kg,5x2,Prapor LL3,Vertical: 174Horizontal: 422,650 m,35,SingleFull Auto,600,100,7.62x39mm,7.62x39 mm BP,743 m/s,"30-round 7.62x39 magazine for AK-103 and compatible weapons
+7.62x39 mm BP
+7.62x39 mm HP
+7.62x39 mm MAI AP
+7.62x39 mm PS
+7.62x39 mm T45M
+7.62x39 mm US"
+4,AK-104 7.62x39 assault rifle,"
+
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Molot AKM type gas tube
+UltiMAK M1-B gas tube for AK
+,
+
+Hexagon ""DTKP MK.2"" 7.62x39 sound suppressor
+Izhmash 7.62x39 AK-103 muzzlebrake & compensator
+Izhmash 7.62x39 AK-104 muzzlebrake & compensator (6P46 0-20)
+Spike tactical dynacomp 7.62x39 muzzle brake & compensator for AK
+SRVV 7.62x39 AK muzzle brake & compensator
+Zenit DTK-1 7.62x39 & 5.45x39 muzzle brake & compensator for AK
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+PBS-1 7.62x39 silencer
+Zenit DTK-4M muzzle brake
+Rotor 43 7.62x39 muzzle brake
+JMAC RRD-4C muzzle brake for AK-74 type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+Izhmash AK-74 dust cover (6P1 0-1)
+Izhmash AK-74M dust cover (6P34 0-1)
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AK-105 Standard Rearsight (6P44 Sb.1-30)
+AK-74 Standard Rearsight (6P1 Sb.2)
+AK-74M Standard Rearsight (6P20 Sb.2)
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+Polymer stock for AK-74M (6P34 Sb.15)
+CAA AKTS AK-74 Buffer Tube for AK and compatible (foldable)
+AK74/AK100 PT Lock
+Izhmash RPK-16 buffer tube
+,
+
+7.62x39 ribbed metal magazine for AK and compatibles, 10-round capacity
+Izhmash 6L10 7.62x39 magazine for AK and compatibles, 30-round capacity
+30-round 7.62x39 magazine for AK-103 and compatible weapons
+Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles
+Izhmash 7.62x39 AK aluminium magazine for AK and compatibles, 10-round capacity
+Izhmash 7.62x39 AKMS aluminium magazine for AK and compatibles, 30-round capacity
+Molot 6P2.Sb-11 7.62x39 magazine for AK and compatibles, 40-round capacity
+Bakelite 7.62x39 magazine for AK and compatibles, 40-round capacity
+PMAG 30 AK/AKM GEN M3 7.62x39 magazine for AK and compatibles, 30-round capacity
+Molot magazine for AK and compatibles, 75-round capacity
+ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (black)
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (FDE)
+X-47 AK 7.62x39 50 rnd magazine
+,
+
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,1.992 kg,4x2,Prapor LL3,Vertical: 186Horizontal: 422,650 m,43,SingleFull Auto,600,100,7.62x39mm,7.62x39 mm BP,743 m/s,"30-round 7.62x39 magazine for AK-103 and compatible weapons
+7.62x39 mm BP
+7.62x39 mm HP
+7.62x39 mm MAI AP
+7.62x39 mm PS
+7.62x39 mm T45M
+7.62x39 mm US"
+5,AK-105 5.45x39 assault rifle,"
+
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Molot AKM type gas tube
+UltiMAK M1-B gas tube for AK
+,
+
+Izhmash 5.45x39 AK-105 muzzlebrake & compensator (6P44 0-20)
+Izhmash 5.45x39 AK-74M muzzle brake & compensator (6P20 0-20)
+Izhmash 5.45x39 AK-74 muzzle brake & compensator (6P20 0-20)
+PWS CQB 74 5.45x39 Muzzle brake
+SRVV 5.45x39 AK-74 muzzle brake
+Zenit DTK-1 7.62x39 & 5.45x39 muzzle brake & compensator for AK
+Izhmash 5.45x39 muzzle brake for AKS-74U (6P26 0-20)
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AK-74 5.45x39 sound suppressor
+TGP-A 5.45x39 muzzle device/suppressor
+PBS-4 5.45x39 Silencer
+JMAC RRD-4C muzzle brake for AK-74 type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+Izhmash AK-74 dust cover (6P1 0-1)
+Izhmash AK-74M dust cover (6P34 0-1)
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AK-105 Standard Rearsight (6P44 Sb.1-30)
+AK-74 Standard Rearsight (6P1 Sb.2)
+AK-74M Standard Rearsight (6P20 Sb.2)
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+Polymer stock for AK-74M (6P34 Sb.15)
+CAA AKTS AK-74 Buffer Tube for AK and compatible (foldable)
+AK74/AK100 PT Lock
+Izhmash RPK-16 buffer tube
+,
+
+6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons
+6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+30-round 6L23 Plum 5.45x39 magazine for AK-74 and compatibles
+45-round 6L26 5.45x39 magazine for AK-74 and compatibles
+60-round 6L31 5.45x39 magazine for AK-74 and compatibles
+10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles
+Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity
+30-round 5.45x39 magazine for AK-12 and compatibles
+95-round 5.45x39 magazine for RPK-16 and compatibles
+,
+
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,1.992 kg,4x2,Prapor LL3,Vertical: 150Horizontal: 400,650 m,45,SingleFull Auto,600,100,5.45x39mm,5.45x39 mm BP,906 m/s,"30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+5.45x39 mm 7N39 ""Igolnik""
+5.45x39 mm BP
+5.45x39 mm BS
+5.45x39 mm BT
+5.45x39 mm FMJ
+5.45x39 mm HP
+5.45x39 mm PP
+5.45x39 mm PRS
+5.45x39 mm PS
+5.45x39 mm SP
+5.45x39 mm T
+5.45x39 mm US"
+6,AK-74 5.45x39 assault rifle,"
+
+Kiba Arms VDM CS gas tube
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Molot AKM type gas tube
+Handguard with a gas block combo by TROY Industries for AK
+UltiMAK M1-B gas tube for AK
+VS-24 Handguard with a VS-33c gas block combo for AK
+VS-24 white handguard with a VS-33c gas block combo for AK
+,
+
+GP-34 underbarrel grenade launcher
+,
+
+Izhmash 5.45x39 AK-105 muzzlebrake & compensator (6P44 0-20)
+Izhmash 5.45x39 AK-74M muzzle brake & compensator (6P20 0-20)
+Izhmash 5.45x39 AK-74 muzzle brake & compensator (6P20 0-20)
+PWS CQB 74 5.45x39 Muzzle brake
+SRVV 5.45x39 AK-74 muzzle brake
+Zenit DTK-1 7.62x39 & 5.45x39 muzzle brake & compensator for AK
+Izhmash 5.45x39 muzzle brake for AKS-74U (6P26 0-20)
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AK-74 5.45x39 sound suppressor
+TGP-A 5.45x39 muzzle device/suppressor
+PBS-4 5.45x39 Silencer
+JMAC RRD-4C muzzle brake for AK-74 type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+Izhmash AK-74 dust cover (6P1 0-1)
+Izhmash AK-74M dust cover (6P34 0-1)
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AK-105 Standard Rearsight (6P44 Sb.1-30)
+AK-74 Standard Rearsight (6P1 Sb.2)
+AK-74M Standard Rearsight (6P20 Sb.2)
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+Hexagon ""Kocherga"" stock red
+Izhmash polymer AK-74 stock (6P20 Sb.7)
+Izhmash polymer Plum AK-74 stock (6P20 Sb.7)
+Izhmash wooden AK-74 stock (6P20 Sb.5)
+CAA AKTS AK-74 Buffer Tube for AK and compatible
+Fab Defense UAS for AK
+Izhmash wooden AKM stock (6P1 Sb.5)
+Zhukov-S for AK
+Molot wooden VPO-136 stock
+Molot wooden VPO-209 stock
+ME adapter for AK
+AKM/AK-74 PT Lock
+,
+
+6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons
+6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+30-round 6L23 Plum 5.45x39 magazine for AK-74 and compatibles
+45-round 6L26 5.45x39 magazine for AK-74 and compatibles
+60-round 6L31 5.45x39 magazine for AK-74 and compatibles
+10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles
+Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity
+30-round 5.45x39 magazine for AK-12 and compatibles
+95-round 5.45x39 magazine for RPK-16 and compatibles
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,1.992 kg,5x2,Prapor LL2,Vertical: 145Horizontal: 398,650 m,30,SingleFull Auto,650,100,5.45x39mm,5.45x39 mm BP,906 m/s,"6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+5.45x39 mm 7N39 ""Igolnik""
+5.45x39 mm BP
+5.45x39 mm BS
+5.45x39 mm BT
+5.45x39 mm FMJ
+5.45x39 mm HP
+5.45x39 mm PP
+5.45x39 mm PRS
+5.45x39 mm PS
+5.45x39 mm SP
+5.45x39 mm T
+5.45x39 mm US"
+7,AK-74M 5.45x39 assault rifle,"
+
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Handguard with a gas block combo by TROY Industries for AK
+Kiba Arms VDM CS gas tube
+Molot AKM type gas tube
+UltiMAK M1-B gas tube for AK
+VS-24 Handguard with a VS-33c gas block combo for AK
+VS-24 white handguard with a VS-33c gas block combo for AK
+,
+
+GP-34 underbarrel grenade launcher
+,
+
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AK-74 5.45x39 sound suppressor
+Izhmash 5.45x39 AK-74 muzzle brake & compensator (6P20 0-20)
+Izhmash 5.45x39 muzzle brake for AKS-74U (6P26 0-20)
+Izhmash 5.45x39 AK-105 muzzlebrake & compensator (6P44 0-20)
+Izhmash 5.45x39 AK-74M muzzle brake & compensator (6P20 0-20)
+PBS-4 5.45x39 Silencer
+PWS CQB 74 5.45x39 Muzzle brake
+SRVV 5.45x39 AK-74 muzzle brake
+TGP-A 5.45x39 muzzle device/suppressor
+Zenit DTK-1 7.62x39 & 5.45x39 muzzle brake & compensator for AK
+JMAC RRD-4C muzzle brake for AK-74 type thread
+,
+
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AK-12 regular pistol grip
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+Izhmash AKM bakelite pistol grip
+KGB MG-47 pistol grip for AK
+KGB MG-47 pistol grip for AK red
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+PP-19-01 Izhmash pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Wooden Izhmash AKM pistol grip for AK
+Zenit RK-3 AK pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+Izhmash AK-74 dust cover (6P1 0-1)
+Izhmash AK-74M dust cover (6P34 0-1)
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AK-105 Standard Rearsight (6P44 Sb.1-30)
+AK-74 Standard Rearsight (6P1 Sb.2)
+AK-74M Standard Rearsight (6P20 Sb.2)
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+AK74/AK100 PT Lock
+CAA AKTS AK-74 Buffer Tube for AK and compatible (foldable)
+Izhmash RPK-16 buffer tube
+Polymer stock for AK-74M (6P34 Sb.15)
+,
+
+10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles
+30-round 5.45x39 magazine for AK-12 and compatibles
+30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+30-round 6L23 Plum 5.45x39 magazine for AK-74 and compatibles
+45-round 6L26 5.45x39 magazine for AK-74 and compatibles
+60-round 6L31 5.45x39 magazine for AK-74 and compatibles
+6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons
+6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+95-round 5.45x39 magazine for RPK-16 and compatibles
+Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity
+,
+
+Axion Cobra mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+Cobra EKP-8-02 reflex sight
+KMZ 1P59 Dovetail mount
+NPZ USP-1 4x scope
+NSPU-M night Scope
+OKP-7 reflex sight (Dovetail)
+Pilad 043-02 Mount
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,2.392 kg,5x2,Prapor LL3: Standard variantMechanic LL3: Stripped lower receiver,Vertical: 142Horizontal: 394,650 m,33,SingleFull Auto,650,100,5.45x39mm,5.45x39 mm BP,906 m/s,"30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+5.45x39 mm 7N39 ""Igolnik""
+5.45x39 mm BP
+5.45x39 mm BS
+5.45x39 mm BT
+5.45x39 mm FMJ
+5.45x39 mm HP
+5.45x39 mm PP
+5.45x39 mm PRS
+5.45x39 mm PS
+5.45x39 mm SP
+5.45x39 mm T
+5.45x39 mm US"
+8,AK-74N 5.45x39 assault rifle,"
+
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Handguard with a gas block combo by TROY Industries for AK
+Kiba Arms VDM CS gas tube
+Molot AKM type gas tube
+UltiMAK M1-B gas tube for AK
+VS-24 Handguard with a VS-33c gas block combo for AK
+VS-24 white handguard with a VS-33c gas block combo for AK
+,
+
+GP-34 underbarrel grenade launcher
+,
+
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AK-74 5.45x39 sound suppressor
+Izhmash 5.45x39 AK-74 muzzle brake & compensator (6P20 0-20)
+Izhmash 5.45x39 muzzle brake for AKS-74U (6P26 0-20)
+Izhmash 5.45x39 AK-105 muzzlebrake & compensator (6P44 0-20)
+Izhmash 5.45x39 AK-74M muzzle brake & compensator (6P20 0-20)
+PBS-4 5.45x39 Silencer
+PWS CQB 74 5.45x39 Muzzle brake
+SRVV 5.45x39 AK-74 muzzle brake
+TGP-A 5.45x39 muzzle device/suppressor
+Zenit DTK-1 7.62x39 & 5.45x39 muzzle brake & compensator for AK
+JMAC RRD-4C muzzle brake for AK-74 type thread
+,
+
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AK-12 regular pistol grip
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+Izhmash AKM bakelite pistol grip
+KGB MG-47 pistol grip for AK
+KGB MG-47 pistol grip for AK red
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+PP-19-01 Izhmash pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Wooden Izhmash AKM pistol grip for AK
+Zenit RK-3 AK pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+Izhmash AK-74 dust cover (6P1 0-1)
+Izhmash AK-74M dust cover (6P34 0-1)
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AK-105 Standard Rearsight (6P44 Sb.1-30)
+AK-74 Standard Rearsight (6P1 Sb.2)
+AK-74M Standard Rearsight (6P20 Sb.2)
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+AKM/AK-74 PT Lock
+CAA AKTS AK-74 Buffer Tube for AK and compatible
+Fab Defense UAS for AK
+Hexagon ""Kocherga"" stock red
+Izhmash polymer AK-74 stock (6P20 Sb.7)
+Izhmash polymer Plum AK-74 stock (6P20 Sb.7)
+Izhmash wooden AK-74 stock (6P20 Sb.5)
+Izhmash wooden AKM stock (6P1 Sb.5)
+ME adapter for AK
+Molot wooden VPO-136 stock
+Molot wooden VPO-209 stock
+Zhukov-S for AK
+,
+
+10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles
+30-round 5.45x39 magazine for AK-12 and compatibles
+30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+30-round 6L23 Plum 5.45x39 magazine for AK-74 and compatibles
+45-round 6L26 5.45x39 magazine for AK-74 and compatibles
+60-round 6L31 5.45x39 magazine for AK-74 and compatibles
+6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons
+6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+95-round 5.45x39 magazine for RPK-16 and compatibles
+Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity
+,
+
+Axion Cobra mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+Cobra EKP-8-02 reflex sight
+KMZ 1P59 Dovetail mount
+NPZ USP-1 4x scope
+NSPU-M night Scope
+OKP-7 reflex sight (Dovetail)
+Pilad 043-02 Mount
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,2.092 kg,5x2,Prapor LL2: Standard variantMechanic LL2: Stripped receiver,Vertical: 144Horizontal: 397,650 m,31,SingleFull Auto,650,100,5.45x39mm,5.45x39 mm BP,906 m/s,"6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+5.45x39 mm 7N39 ""Igolnik""
+5.45x39 mm BP
+5.45x39 mm BS
+5.45x39 mm BT
+5.45x39 mm FMJ
+5.45x39 mm HP
+5.45x39 mm PP
+5.45x39 mm PRS
+5.45x39 mm PS
+5.45x39 mm SP
+5.45x39 mm T
+5.45x39 mm US"
+9,AKM 7.62x39 assault rifle,"
+
+Kiba Arms VDM CS gas tube
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Molot AKM type gas tube
+Handguard with a gas block combo by TROY Industries for AK
+UltiMAK M1-B gas tube for AK
+VS-24 Handguard with a VS-33c gas block combo for AK
+VS-24 white handguard with a VS-33c gas block combo for AK
+,
+
+GP-34 underbarrel grenade launcher
+,
+
+Izhmash 7.62x39 AKM muzzle brake & compensator (6P1 0-14)
+Izhmash 7.62x39 flash hider for AKML system
+Lantac Dragon 7.62x39 muzzle brake & compensator for AK
+Molot 7.62x39 Vepr KM / VPO-136 muzzle brake & compensator
+Thread protection for AKM/VPO-209
+Spike tactical dynacomp 7.62x39 muzzle brake & compensator for AK
+Venom Antidote muzzle brake & compensator for AK
+Taktika Tula AK and AKM adapter
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AKM 7.62x39 sound suppressor
+PBS-1 7.62x39 silencer
+Rotor 43 7.62x39 muzzle brake
+JMAC RRD-4C 7.62x39 muzzle brake for AKM type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+Izhmash AKM dust cover (6P1 0-1)
+Molot AKM type dust cover
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AKM Standard Rearsight (6P1 Sb.2-1)
+AKMB system rear sight
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+AKMP system front sight device
+,
+
+Hexagon ""Kocherga"" stock red
+Izhmash polymer AK-74 stock (6P20 Sb.7)
+Izhmash polymer Plum AK-74 stock (6P20 Sb.7)
+Izhmash wooden AK-74 stock (6P20 Sb.5)
+CAA AKTS AK-74 Buffer Tube for AK and compatible
+Fab Defense UAS for AK
+Izhmash wooden AKM stock (6P1 Sb.5)
+Zhukov-S for AK
+Molot wooden VPO-136 stock
+Molot wooden VPO-209 stock
+ME adapter for AK
+AKM/AK-74 PT Lock
+,
+
+7.62x39 ribbed metal magazine for AK and compatibles, 10-round capacity
+Izhmash 6L10 7.62x39 magazine for AK and compatibles, 30-round capacity
+30-round 7.62x39 magazine for AK-103 and compatible weapons
+Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles
+Izhmash 7.62x39 AK aluminium magazine for AK and compatibles, 10-round capacity
+Izhmash 7.62x39 AKMS aluminium magazine for AK and compatibles, 30-round capacity
+Molot 6P2.Sb-11 7.62x39 magazine for AK and compatibles, 40-round capacity
+Bakelite 7.62x39 magazine for AK and compatibles, 40-round capacity
+PMAG 30 AK/AKM GEN M3 7.62x39 magazine for AK and compatibles, 30-round capacity
+Molot magazine for AK and compatibles, 75-round capacity
+ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (black)
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (FDE)
+X-47 AK 7.62x39 50 rnd magazine
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,2.092 kg,5x2,Prapor LL2,Vertical: 194Horizontal: 448,400 m,26,SingleFull Auto,600,100,7.62x39mm,7.62x39 mm PS,712 m/s,"Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles
+7.62x39 mm BP
+7.62x39 mm HP
+7.62x39 mm MAI AP
+7.62x39 mm PS
+7.62x39 mm T45M
+7.62x39 mm US"
+10,AKMN 7.62x39 assault rifle,"
+
+Kiba Arms VDM CS gas tube
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Molot AKM type gas tube
+Handguard with a gas block combo by TROY Industries for AK
+UltiMAK M1-B gas tube for AK
+VS-24 Handguard with a VS-33c gas block combo for AK
+VS-24 white handguard with a VS-33c gas block combo for AK
+,
+
+GP-34 underbarrel grenade launcher
+,
+
+Izhmash 7.62x39 AKM muzzle brake & compensator (6P1 0-14)
+Izhmash 7.62x39 flash hider for AKML system
+Lantac Dragon 7.62x39 muzzle brake & compensator for AK
+Molot 7.62x39 Vepr KM / VPO-136 muzzle brake & compensator
+Thread protection for AKM/VPO-209
+Spike tactical dynacomp 7.62x39 muzzle brake & compensator for AK
+Venom Antidote muzzle brake & compensator for AK
+Taktika Tula AK and AKM adapter
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AKM 7.62x39 sound suppressor
+PBS-1 7.62x39 silencer
+Rotor 43 7.62x39 muzzle brake
+JMAC RRD-4C 7.62x39 muzzle brake for AKM type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+Izhmash AKM dust cover (6P1 0-1)
+Molot AKM type dust cover
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AKM Standard Rearsight (6P1 Sb.2-1)
+AKMB system rear sight
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+AKMP system front sight device
+,
+
+Hexagon ""Kocherga"" stock red
+Izhmash polymer AK-74 stock (6P20 Sb.7)
+Izhmash polymer Plum AK-74 stock (6P20 Sb.7)
+Izhmash wooden AK-74 stock (6P20 Sb.5)
+CAA AKTS AK-74 Buffer Tube for AK and compatible
+Fab Defense UAS for AK
+Izhmash wooden AKM stock (6P1 Sb.5)
+Zhukov-S for AK
+Molot wooden VPO-136 stock
+Molot wooden VPO-209 stock
+ME adapter for AK
+AKM/AK-74 PT Lock
+,
+
+7.62x39 ribbed metal magazine for AK and compatibles, 10-round capacity
+Izhmash 6L10 7.62x39 magazine for AK and compatibles, 30-round capacity
+30-round 7.62x39 magazine for AK-103 and compatible weapons
+Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles
+Izhmash 7.62x39 AK aluminium magazine for AK and compatibles, 10-round capacity
+Izhmash 7.62x39 AKMS aluminium magazine for AK and compatibles, 30-round capacity
+Molot 6P2.Sb-11 7.62x39 magazine for AK and compatibles, 40-round capacity
+Bakelite 7.62x39 magazine for AK and compatibles, 40-round capacity
+PMAG 30 AK/AKM GEN M3 7.62x39 magazine for AK and compatibles, 30-round capacity
+Molot magazine for AK and compatibles, 75-round capacity
+ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (black)
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (FDE)
+X-47 AK 7.62x39 50 rnd magazine
+,
+
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,2.152 kg,5x2,Prapor LL3: Standard variantMechanic LL3: Stripped lower receiver,Vertical: 193Horizontal: 448,400 m,26,SingleFull Auto,600,100,7.62x39mm,7.62x39 mm PS,712 m/s,Izhmash 6L10 7.62x39 magazine for AK and compatibles 30-round capacity
+11,AKMS 7.62x39 assault rifle,"
+
+Kiba Arms VDM CS gas tube
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Molot AKM type gas tube
+Handguard with a gas block combo by TROY Industries for AK
+UltiMAK M1-B gas tube for AK
+VS-24 Handguard with a VS-33c gas block combo for AK
+VS-24 white handguard with a VS-33c gas block combo for AK
+,
+
+GP-34 underbarrel grenade launcher
+,
+
+Izhmash 7.62x39 AKM muzzle brake & compensator (6P1 0-14)
+Izhmash 7.62x39 flash hider for AKML system
+Lantac Dragon 7.62x39 muzzle brake & compensator for AK
+Molot 7.62x39 Vepr KM / VPO-136 muzzle brake & compensator
+Thread protection for AKM/VPO-209
+Spike tactical dynacomp 7.62x39 muzzle brake & compensator for AK
+Venom Antidote muzzle brake & compensator for AK
+Taktika Tula AK and AKM adapter
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AKM 7.62x39 sound suppressor
+PBS-1 7.62x39 silencer
+Rotor 43 7.62x39 muzzle brake
+JMAC RRD-4C 7.62x39 muzzle brake for AKM type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+Izhmash AKM dust cover (6P1 0-1)
+Molot AKM type dust cover
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AKM Standard Rearsight (6P1 Sb.2-1)
+AKMB system rear sight
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+AKMP system front sight device
+,
+
+Izhmash shoulder piece for AKMS (6P4 Sb.1-19)
+Izhmash shoulder piece for AKMSN (6P4 Sb.1-19)
+,
+
+7.62x39 ribbed metal magazine for AK and compatibles, 10-round capacity
+Izhmash 6L10 7.62x39 magazine for AK and compatibles, 30-round capacity
+30-round 7.62x39 magazine for AK-103 and compatible weapons
+Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles
+Izhmash 7.62x39 AK aluminium magazine for AK and compatibles, 10-round capacity
+Izhmash 7.62x39 AKMS aluminium magazine for AK and compatibles, 30-round capacity
+Molot 6P2.Sb-11 7.62x39 magazine for AK and compatibles, 40-round capacity
+Bakelite 7.62x39 magazine for AK and compatibles, 40-round capacity
+PMAG 30 AK/AKM GEN M3 7.62x39 magazine for AK and compatibles, 30-round capacity
+Molot magazine for AK and compatibles, 75-round capacity
+ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (black)
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (FDE)
+X-47 AK 7.62x39 50 rnd magazine
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,2.092 kg,5x2,Prapor LL2,Vertical: 195Horizontal: 448,400 m,24,SingleFull Auto,600,100,7.62x39mm,7.62x39 mm PS,712 m/s,Izhmash 7.62x39 AKMS aluminium magazine for AK and compatibles 30-round capacity
+12,AKMSN 7.62x39 assault rifle,"
+
+Kiba Arms VDM CS gas tube
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Molot AKM type gas tube
+Handguard with a gas block combo by TROY Industries for AK
+UltiMAK M1-B gas tube for AK
+VS-24 Handguard with a VS-33c gas block combo for AK
+VS-24 white handguard with a VS-33c gas block combo for AK
+,
+
+GP-34 underbarrel grenade launcher
+,
+
+Izhmash 7.62x39 AKM muzzle brake & compensator (6P1 0-14)
+Izhmash 7.62x39 flash hider for AKML system
+Lantac Dragon 7.62x39 muzzle brake & compensator for AK
+Molot 7.62x39 Vepr KM / VPO-136 muzzle brake & compensator
+Thread protection for AKM/VPO-209
+Spike tactical dynacomp 7.62x39 muzzle brake & compensator for AK
+Venom Antidote muzzle brake & compensator for AK
+Taktika Tula AK and AKM adapter
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AKM 7.62x39 sound suppressor
+PBS-1 7.62x39 silencer
+Rotor 43 7.62x39 muzzle brake
+JMAC RRD-4C 7.62x39 muzzle brake for AKM type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+Izhmash AKM dust cover (6P1 0-1)
+Molot AKM type dust cover
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AKM Standard Rearsight (6P1 Sb.2-1)
+AKMB system rear sight
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+AKMP system front sight device
+,
+
+Izhmash shoulder piece for AKMS (6P4 Sb.1-19)
+Izhmash shoulder piece for AKMSN (6P4 Sb.1-19)
+,
+
+7.62x39 ribbed metal magazine for AK and compatibles, 10-round capacity
+Izhmash 6L10 7.62x39 magazine for AK and compatibles, 30-round capacity
+30-round 7.62x39 magazine for AK-103 and compatible weapons
+Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles
+Izhmash 7.62x39 AK aluminium magazine for AK and compatibles, 10-round capacity
+Izhmash 7.62x39 AKMS aluminium magazine for AK and compatibles, 30-round capacity
+Molot 6P2.Sb-11 7.62x39 magazine for AK and compatibles, 40-round capacity
+Bakelite 7.62x39 magazine for AK and compatibles, 40-round capacity
+PMAG 30 AK/AKM GEN M3 7.62x39 magazine for AK and compatibles, 30-round capacity
+Molot magazine for AK and compatibles, 75-round capacity
+ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (black)
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (FDE)
+X-47 AK 7.62x39 50 rnd magazine
+,
+
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,2.108 kg,5x2,Prapor LL3,Vertical: 195Horizontal: 448,400 m,24,SingleFull Auto,600,100,7.62x39mm,7.62x39 mm PS,712 m/s,"Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles
+7.62x39 mm BP
+7.62x39 mm HP
+7.62x39 mm MAI AP
+7.62x39 mm PS
+7.62x39 mm T45M
+7.62x39 mm US"
+13,AKS-74 5.45x39 assault rifle,"
+
+Kiba Arms VDM CS gas tube
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Molot AKM type gas tube
+Handguard with a gas block combo by TROY Industries for AK
+UltiMAK M1-B gas tube for AK
+VS-24 Handguard with a VS-33c gas block combo for AK
+VS-24 white handguard with a VS-33c gas block combo for AK
+,
+
+GP-34 underbarrel grenade launcher
+,
+
+Izhmash 5.45x39 AK-105 muzzlebrake & compensator (6P44 0-20)
+Izhmash 5.45x39 AK-74M muzzle brake & compensator (6P20 0-20)
+Izhmash 5.45x39 AK-74 muzzle brake & compensator (6P20 0-20)
+PWS CQB 74 5.45x39 Muzzle brake
+SRVV 5.45x39 AK-74 muzzle brake
+Zenit DTK-1 7.62x39 & 5.45x39 muzzle brake & compensator for AK
+Izhmash 5.45x39 muzzle brake for AKS-74U (6P26 0-20)
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AK-74 5.45x39 sound suppressor
+TGP-A 5.45x39 muzzle device/suppressor
+PBS-4 5.45x39 Silencer
+JMAC RRD-4C muzzle brake for AK-74 type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+Izhmash AK-74 dust cover (6P1 0-1)
+Izhmash AK-74M dust cover (6P34 0-1)
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AK-105 Standard Rearsight (6P44 Sb.1-30)
+AK-74 Standard Rearsight (6P1 Sb.2)
+AK-74M Standard Rearsight (6P20 Sb.2)
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+AKS-74/AKS-74U PT Lock
+IzhMash metal stock for AKS-74 (6P21 Sb.5)
+Izhmash metal stock for AKS-74U (6P26 Sb.5)
+,
+
+6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons
+6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+30-round 6L23 Plum 5.45x39 magazine for AK-74 and compatibles
+45-round 6L26 5.45x39 magazine for AK-74 and compatibles
+60-round 6L31 5.45x39 magazine for AK-74 and compatibles
+10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles
+Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity
+30-round 5.45x39 magazine for AK-12 and compatibles
+95-round 5.45x39 magazine for RPK-16 and compatibles
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,3.134 kg,5x2,,Vertical: 145Horizontal: 398,650 m,31,SingleFull Auto,650,500,5.45x39mm,5.45x39 mm BP,910 m/s,"6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+5.45x39 mm 7N39 ""Igolnik""
+5.45x39 mm BP
+5.45x39 mm BS
+5.45x39 mm BT
+5.45x39 mm FMJ
+5.45x39 mm HP
+5.45x39 mm PP
+5.45x39 mm PRS
+5.45x39 mm PS
+5.45x39 mm SP
+5.45x39 mm T
+5.45x39 mm US"
+14,AKS-74N 5.45x39 assault rifle,"
+
+Kiba Arms VDM CS gas tube
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Molot AKM type gas tube
+Handguard with a gas block combo by TROY Industries for AK
+UltiMAK M1-B gas tube for AK
+VS-24 Handguard with a VS-33c gas block combo for AK
+VS-24 white handguard with a VS-33c gas block combo for AK
+,
+
+GP-34 underbarrel grenade launcher
+,
+
+Izhmash 5.45x39 AK-105 muzzlebrake & compensator (6P44 0-20)
+Izhmash 5.45x39 AK-74M muzzle brake & compensator (6P20 0-20)
+Izhmash 5.45x39 AK-74 muzzle brake & compensator (6P20 0-20)
+PWS CQB 74 5.45x39 Muzzle brake
+SRVV 5.45x39 AK-74 muzzle brake
+Zenit DTK-1 7.62x39 & 5.45x39 muzzle brake & compensator for AK
+Izhmash 5.45x39 muzzle brake for AKS-74U (6P26 0-20)
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AK-74 5.45x39 sound suppressor
+TGP-A 5.45x39 muzzle device/suppressor
+PBS-4 5.45x39 Silencer
+JMAC RRD-4C muzzle brake for AK-74 type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+Izhmash AK-74 dust cover (6P1 0-1)
+Izhmash AK-74M dust cover (6P34 0-1)
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AK-105 Standard Rearsight (6P44 Sb.1-30)
+AK-74 Standard Rearsight (6P1 Sb.2)
+AK-74M Standard Rearsight (6P20 Sb.2)
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+AKS-74/AKS-74U PT Lock
+IzhMash metal stock for AKS-74 (6P21 Sb.5)
+Izhmash metal stock for AKS-74U (6P26 Sb.5)
+,
+
+6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons
+6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+30-round 6L23 Plum 5.45x39 magazine for AK-74 and compatibles
+45-round 6L26 5.45x39 magazine for AK-74 and compatibles
+60-round 6L31 5.45x39 magazine for AK-74 and compatibles
+10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles
+Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity
+30-round 5.45x39 magazine for AK-12 and compatibles
+95-round 5.45x39 magazine for RPK-16 and compatibles
+,
+
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,2.092 kg,5x2,Prapor LL2,Vertical: 144Horizontal: 397,650 m,32,SingleFull Auto,650,100,5.45x39mm,5.45x39 mm BP,906 m/s,"6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+5.45x39 mm 7N39 ""Igolnik""
+5.45x39 mm BP
+5.45x39 mm BS
+5.45x39 mm BT
+5.45x39 mm FMJ
+5.45x39 mm HP
+5.45x39 mm PP
+5.45x39 mm PRS
+5.45x39 mm PS
+5.45x39 mm SP
+5.45x39 mm T
+5.45x39 mm US"
+15,Kalashnikov AKS-74U 5.45x39,"
+
+AKS-74U Gas tube
+,
+
+Izhmash 5.45x39 AK-105 muzzlebrake & compensator (6P44 0-20)
+Izhmash 5.45x39 AK-74M muzzle brake & compensator (6P20 0-20)
+Izhmash 5.45x39 AK-74 muzzle brake & compensator (6P20 0-20)
+PWS CQB 74 5.45x39 Muzzle brake
+SRVV 5.45x39 AK-74 muzzle brake
+Zenit DTK-1 7.62x39 & 5.45x39 muzzle brake & compensator for AK
+Izhmash 5.45x39 muzzle brake for AKS-74U (6P26 0-20)
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AK-74 5.45x39 sound suppressor
+TGP-A 5.45x39 muzzle device/suppressor
+PBS-4 5.45x39 Silencer
+JMAC RRD-4C muzzle brake for AK-74 type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+AKS-74U Dust cover (6P26 Sb.7)
+Izhmash AKS-74UB Dust cover
+,
+
+AKS-74/AKS-74U PT Lock
+IzhMash metal stock for AKS-74 (6P21 Sb.5)
+Izhmash metal stock for AKS-74U (6P26 Sb.5)
+,
+
+6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons
+6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+30-round 6L23 Plum 5.45x39 magazine for AK-74 and compatibles
+45-round 6L26 5.45x39 magazine for AK-74 and compatibles
+60-round 6L31 5.45x39 magazine for AK-74 and compatibles
+10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles
+Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity
+30-round 5.45x39 magazine for AK-12 and compatibles
+95-round 5.45x39 magazine for RPK-16 and compatibles
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,1.809 kg,4x2,Prapor LL1: Standard variant after completing his task DebutMechanic LL2: Stripped receiver,Vertical: 146Horizontal: 445,300 m,44,SingleFull Auto,650,100,5.45x39mm,5.45x39 mm BP,730 m/s,"6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+5.45x39 mm 7N39 ""Igolnik""
+5.45x39 mm BP
+5.45x39 mm BS
+5.45x39 mm BT
+5.45x39 mm FMJ
+5.45x39 mm HP
+5.45x39 mm PP
+5.45x39 mm PRS
+5.45x39 mm PS
+5.45x39 mm SP
+5.45x39 mm T
+5.45x39 mm US"
+16,Kalashnikov AKS-74UB 5.45x39,"
+
+AKS-74U Gas tube
+,
+
+Izhmash 5.45x39 AK-105 muzzlebrake & compensator (6P44 0-20)
+Izhmash 5.45x39 AK-74M muzzle brake & compensator (6P20 0-20)
+Izhmash 5.45x39 AK-74 muzzle brake & compensator (6P20 0-20)
+PWS CQB 74 5.45x39 Muzzle brake
+SRVV 5.45x39 AK-74 muzzle brake
+Izhmash 5.45x39 muzzle brake for AKS-74U (6P26 0-20)
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AK-74 5.45x39 sound suppressor
+TGP-A 5.45x39 muzzle device/suppressor
+PBS-4 5.45x39 Silencer
+JMAC RRD-4C muzzle brake for AK-74 type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+AKS-74U Dust cover (6P26 Sb.7)
+Izhmash AKS-74UB Dust cover
+,
+
+AKS-74/AKS-74U PT Lock
+IzhMash metal stock for AKS-74 (6P21 Sb.5)
+Izhmash metal stock for AKS-74U (6P26 Sb.5)
+,
+
+6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons
+6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+30-round 6L23 Plum 5.45x39 magazine for AK-74 and compatibles
+45-round 6L26 5.45x39 magazine for AK-74 and compatibles
+60-round 6L31 5.45x39 magazine for AK-74 and compatibles
+10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles
+Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity
+30-round 5.45x39 magazine for AK-12 and compatibles
+95-round 5.45x39 magazine for RPK-16 and compatibles
+,
+
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,1.85 kg,5x2,Prapor LL3,Vertical: 146Horizontal: 445,300 m,44,SingleFull Auto,650,100,5.45x39mm,5.45x39 mm BP,730 m/s,"30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+5.45x39 mm 7N39 ""Igolnik""
+5.45x39 mm BP
+5.45x39 mm BS
+5.45x39 mm BT
+5.45x39 mm FMJ
+5.45x39 mm HP
+5.45x39 mm PP
+5.45x39 mm PRS
+5.45x39 mm PS
+5.45x39 mm SP
+5.45x39 mm T
+5.45x39 mm US"
+17,Kalashnikov AKS-74UN 5.45x39,"
+
+AKS-74U Gas tube
+,
+
+Izhmash 5.45x39 AK-105 muzzlebrake & compensator (6P44 0-20)
+Izhmash 5.45x39 AK-74M muzzle brake & compensator (6P20 0-20)
+Izhmash 5.45x39 AK-74 muzzle brake & compensator (6P20 0-20)
+PWS CQB 74 5.45x39 Muzzle brake
+SRVV 5.45x39 AK-74 muzzle brake
+Zenit DTK-1 7.62x39 & 5.45x39 muzzle brake & compensator for AK
+Izhmash 5.45x39 muzzle brake for AKS-74U (6P26 0-20)
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AK-74 5.45x39 sound suppressor
+TGP-A 5.45x39 muzzle device/suppressor
+PBS-4 5.45x39 Silencer
+JMAC RRD-4C muzzle brake for AK-74 type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+AKS-74U Dust cover (6P26 Sb.7)
+Izhmash AKS-74UB Dust cover
+,
+
+AKS-74/AKS-74U PT Lock
+IzhMash metal stock for AKS-74 (6P21 Sb.5)
+Izhmash metal stock for AKS-74U (6P26 Sb.5)
+,
+
+6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons
+6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+30-round 6L23 Plum 5.45x39 magazine for AK-74 and compatibles
+45-round 6L26 5.45x39 magazine for AK-74 and compatibles
+60-round 6L31 5.45x39 magazine for AK-74 and compatibles
+10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles
+Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity
+30-round 5.45x39 magazine for AK-12 and compatibles
+95-round 5.45x39 magazine for RPK-16 and compatibles
+,
+
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,1.85 kg,4x2,Prapor LL2,Vertical: 146Horizontal: 445,300 m,44,SingleFull Auto,650,100,5.45x39mm,5.45x39 mm BP,730 m/s,"6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+5.45x39 mm 7N39 ""Igolnik""
+5.45x39 mm BP
+5.45x39 mm BS
+5.45x39 mm BT
+5.45x39 mm FMJ
+5.45x39 mm HP
+5.45x39 mm PP
+5.45x39 mm PRS
+5.45x39 mm PS
+5.45x39 mm SP
+5.45x39 mm T
+5.45x39 mm US"
+18,ASh-12 12.7x55 assault rifle,"
+
+ASh-12 regular muzzle brake 12.7x55
+ASh-12 12.7x55 tactical suppressor
+,
+
+MP7 Flip Up Rearsight
+KAC Folding sight Rear
+Magpul MBUS Gen.2 Rearsight
+Magpul MBUS Gen.2 Rearsight FDE
+SIG MPX Flip Up Rearsight
+,
+
+ASh-12 Folding sight Frontsight
+MP7 Flip Up Frontsight
+KAC Folding sight Frontsight
+Magpul MBUS Gen.2 Frontsight
+Magpul MBUS Gen.2 Frontsight FDE
+SIG MPX Flip Up Frontsight
+,
+
+12.7x55 magazine for ASh-12, 10-round capacity
+12.7x55 magazine for ASh-12, 20-round capacity
+,
+
+ASh-12 Vertical pistol grip
+BCM MOD.3 Tactical grip
+Fortis Shift tactical grip
+Hera Arms CQR tactical grip
+KAC Vertical pistol grip
+Magpul AFG grip black
+Magpul AFG grip FDE
+Magpul AFG grip FG
+Magpul AFG grip OD
+Magpul RVG grip black
+Polymer ASh-12 foregrip
+RTM Pillau Tactical grip
+SE-5 Express Grip
+SI ""Cobra tactical"" tactical grip
+Tango Down Stubby BGV-MK46K tactical grip
+Tango Down Stubby BGV-MK46K tactical grip FDE
+Tango Down Stubby BGV-MK46K tactical grip FG
+Viking Tactical UVG Tactical grip
+Zenit RK-0 Foregrip
+Zenit RK-1 Foregrip
+Zenit RK-1 Foregrip on B-25U mount
+Zenit RK-2 Foregrip
+Zenit RK-4 Foregrip
+Zenit RK-5 Foregrip
+Zenit RK-6 Foregrip
+TD Aluminium skeletonized vertical grip
+,
+
+30mm ring-mount AR- P.E.P.R. made by Burris
+30mm ring-mount made by JP
+30mm rings made by Nightforce
+30mm Scope mount
+34mm one piece magmount made by I-E-A Mil Optics
+34mm one piece magmount made by Nightforce
+34mm one piece magmount made by Nightforce with a Multimount rail
+Aimpoint LRP mount for COMP M4 sights.
+Aimpoint mount for the sights of Micro series
+Armasight universal base
+Belomo PK-06 reflex sight
+Burris FastFire Weaver Base
+Cobra EKP-8-18 reflex sight
+Compact mount for sights
+Cross Slot Mount base for Deltapoint scopes
+ELCAN SpecterDR 1x/4x Scope
+ELCAN SpecterDR 1x/4x Scope FDE
+Eotech 553 holographic sight
+Eotech EXPS3 holographic sight
+Eotech HHS-1 sight
+Eotech HHS-1 sight Tan
+Eotech XPS3-0 holographic sight
+Eotech XPS3-2 holographic sight
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+High profile mount for Trijicon RMR
+Holosun HS401G5 reflex sight
+KMZ 1P69 Weaver mount
+La Rue Tactical picatinny riser QD LT-101 mount
+Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope
+Low profile mount for Trijicon RMR
+Monstrum Compact prism scope 2x32
+OKP-7 reflex sight
+Rearsight ASh-12 Carry Handle
+Sig BRAVO4 4X30 Scope
+Sig Sauer mount for the sights of Romeo series.
+TA51 Mount for sights
+Trijicon SRS-02 reflex sight
+UNV DLOC-IRD Mount for sights
+Valday 1P87 holographic sight
+Valday PS-320 1x/6x Scope
+VOMZ Pilad P1X42 ""WEAVER"" reflex sight
+Vortex Razor AMG UH-1 holographic sight
+Walther MRS reflex sight
+,
+
+25 mm mount ring
+Zenit 2IRS Klesch flashlight + laser designator
+Zenit 2P Klesch flashlight + laser designator
+Zenit 2U Klesch tactical flashlight
+AN/PEQ-15 tactical device
+Glock Tactical GL21 flashlight with laser
+Holosun LS321 Tactical device
+LA-5 tactical device
+LAS/TAC 2 tactical flashlight
+Surefire XC1 tactical flashlight
+X400 tactical flashlight
+Zenit Perst-3 tactical device
+,",Assault rifle,Primary,5.1 kg,4x2,,Vertical: 180Horizontal: 535,650 m,55,SingleFull Auto,650,400,12.7x55mm STs-130,12.7x55 mm PS12,290 m/s,12.7x55 magazine for ASh-12 10-round capacity
+19,AS VAL,"
+
+AS VAL 9x39 integral barrel-suppressor
+VSS 9x39 integral barrel-suppressor
+,
+
+AS VAL Pistol grip-buffer tube
+AS VAL Pistol grip
+,
+
+AS VAL Dust cover
+VSS Vintorez dust cover
+,
+
+TSNIITochMash AS VAL stock
+,
+
+10-round 6L24 9x39 VSS magazine
+20-round 6L25 9x39 VSS magazine
+30-round SR3M.130 9x39 SR3M magazine
+,
+
+CAA XD RGL mount for SVD
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+SVD Low sidemount
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,2.587 kg,5x2,Prapor LL4,Vertical: 150Horizontal: 310,400 m,46,SingleFull Auto,900,420,9x39mm,9x39 mm SP-5,295 m/s,"20-round 6L25 9x39 VSS magazine
+9x39 mm 7N9 SPP
+9x39 mm 7N12 BP
+9x39 mm SP-5
+9x39 mm SP-6"
+20,DT MDR 5.56x45 Assault Rifle,"
+
+406mm barrel for MDR and compatible 5.56x45
+,
+
+Desert Tech pistol grip for MDR
+,
+
+MP7 Flip Up Rearsight
+KAC Folding sight Rear
+Magpul MBUS Gen.2 Rearsight
+Magpul MBUS Gen.2 Rearsight FDE
+SIG MPX Flip Up Rearsight
+Colt A2 Rearsight AR-15
+Rearsight AR-15 Carry Handle
+SIG MCX Flip Up sight Rearsight
+,
+
+Desert Tech foregrip for MDR
+,
+
+Colt AR-15 5.56x45 STANAG 30-round magazine
+HK Steel Maritime 5.56x45 STANAG 30-round magazine
+HK PM Gen.2 5.56x45 STANAG 30-round magazine
+HK Polymer mag 30 5.56x45 STANAG 30-round magazine
+Magpul PMAG D-60 5.56x45 60-round magazine
+PMAG GEN M3 10 5.56x45 STANAG 10-round magazine
+PMAG GEN M3 20 5.56x45 STANAG 20-round magazine
+PMAG GEN M3 30 5.56x45 STANAG 30-round magazine
+PMAG GEN M3 30 5.56x45 STANAG 30-round magazine (FDE)
+40-round PMAG GEN M3 40 5.56x45 STANAG magazine
+40-round PMAG GEN M3 FDE 40 5.56x45 STANAG magazine
+PMAG GEN M3 W 30 5.56x45 STANAG 30-round magazine
+PMAG GEN M3 FDE W 30 5.56x45 STANAG 30-round magazine
+100-round MAG5-100 5.56x45 STANAG magazine
+60-round MAG5-60 5.56x45 STANAG magazine
+TROY Battlemag 5.56x45 STANAG 30-round magazine
+,
+
+ELCAN SpecterDR 1x/4x Scope
+ELCAN SpecterDR 1x/4x Scope FDE
+Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope
+Monstrum Compact prism scope 2x32
+Sig BRAVO4 4X30 Scope
+Valday PS-320 1x/6x Scope
+Cobra EKP-8-18 reflex sight
+OKP-7 reflex sight
+Eotech 553 holographic sight
+Eotech EXPS3 holographic sight
+Eotech HHS-1 sight
+Eotech HHS-1 sight Tan
+Eotech XPS3-0 holographic sight
+Eotech XPS3-2 holographic sight
+Holosun HS401G5 reflex sight
+Trijicon SRS-02 reflex sight
+Valday 1P87 holographic sight
+VOMZ Pilad P1X42 ""WEAVER"" reflex sight
+Vortex Razor AMG UH-1 holographic sight
+Walther MRS reflex sight
+Belomo PK-06 reflex sight
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+Aimpoint mount for the sights of Micro series
+Aimpoint LRP mount for COMP M4 sights.
+Armasight universal base
+30mm ring-mount AR- P.E.P.R. made by Burris
+Burris FastFire Weaver Base
+34mm one piece magmount made by I-E-A Mil Optics
+30mm ring-mount made by JP
+KMZ 1P69 Weaver mount
+La Rue Tactical picatinny riser QD LT-101 mount
+Cross Slot Mount base for Deltapoint scopes
+30mm Scope mount
+30mm rings made by Nightforce
+34mm one piece magmount made by Nightforce
+34mm one piece magmount made by Nightforce with a Multimount rail
+Compact mount for sights
+Sig Sauer mount for the sights of Romeo series.
+High profile mount for Trijicon RMR
+Low profile mount for Trijicon RMR
+TA51 Mount for sights
+UNV DLOC-IRD Mount for sights
+,",Assault rifle,Primary,3.996 kg,4x2,Peacekeeper LL3,Vertical: 87Horizontal: 242,500 m,78,SingleFull Auto,650,100,5.56x45mm NATO,5.56x45 mm M855,880 m/s,"PMAG GEN M3 W 30 5.56x45 STANAG 30-round magazine
+5.56x45 mm 55 FMJ
+5.56x45 mm 55 HP
+5.56x45 mm M855
+5.56x45 mm M855A1
+5.56x45 mm M856
+5.56x45 mm M856A1
+5.56x45 mm M995
+5.56x45 mm Mk 255 Mod 0
+5.56x45 mm Mk 318 Mod 0 (SOST)
+5.56x45 mm SSA AP
+5.56x45 mm Warmage"
+21,DT MDR 7.62x51 Assault Rifle,"
+
+16 inch .308 barrel for MDR and compatible
+,
+
+Desert Tech pistol grip for MDR
+Desert Tech pistol grip for MDR Black
+,
+
+MP7 Flip Up Rearsight
+KAC Folding micro sight Rear
+KAC Folding sight Rear
+Magpul MBUS Gen.2 Rearsight
+Magpul MBUS Gen.2 Rearsight FDE
+SIG MPX Flip Up Rearsight
+Colt A2 Rearsight AR-15
+Rearsight AR-15 Carry Handle
+SIG MCX Flip Up sight Rearsight
+,
+
+Desert Tech foregrip for MDR
+Desert Tech foregrip for MDR blk
+,
+
+KAC Steel 10 7.62x51 10 rnd
+KAC Steel 20 7.62x51 20 rnd
+PMAG SR/LR GEN M3 20 7.62x51 20 rnd
+,
+
+ELCAN SpecterDR 1x/4x Scope
+ELCAN SpecterDR 1x/4x Scope FDE
+Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope
+Monstrum Compact prism scope 2x32
+Sig BRAVO4 4X30 Scope
+Valday PS-320 1x/6x Scope
+Cobra EKP-8-18 reflex sight
+OKP-7 reflex sight
+Eotech 553 holographic sight
+Eotech EXPS3 holographic sight
+Eotech HHS-1 sight
+Eotech HHS-1 sight Tan
+Eotech XPS3-0 holographic sight
+Eotech XPS3-2 holographic sight
+Holosun HS401G5 reflex sight
+Trijicon SRS-02 reflex sight
+Valday 1P87 holographic sight
+VOMZ Pilad P1X42 ""WEAVER"" reflex sight
+Vortex Razor AMG UH-1 holographic sight
+Walther MRS reflex sight
+Belomo PK-06 reflex sight
+NcSTAR ADO P4 Sniper 3-9x42 riflescope
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+Aimpoint mount for the sights of Micro series
+Aimpoint LRP mount for COMP M4 sights.
+Armasight universal base
+30mm ring-mount AR- P.E.P.R. made by Burris
+Burris FastFire Weaver Base
+34mm one piece magmount made by I-E-A Mil Optics
+30mm ring-mount made by JP
+KMZ 1P69 Weaver mount
+La Rue Tactical picatinny riser QD LT-101 mount
+Cross Slot Mount base for Deltapoint scopes
+30mm Scope mount
+30mm rings made by Nightforce
+34mm one piece magmount made by Nightforce
+34mm one piece magmount made by Nightforce with a Multimount rail
+Compact mount for sights
+Sig Sauer mount for the sights of Romeo series.
+High profile mount for Trijicon RMR
+Low profile mount for Trijicon RMR
+TA51 Mount for sights
+UNV DLOC-IRD Mount for sights
+25mm rings made by UTG
+,",Assault rifle,Primary,2.95 kg,4x2,Peacekeeper LL4,Vertical: 125Horizontal: 295,500 m,72,SingleFull Auto,650,100,7.62x51mm NATO,7.62x51 mm M61,810 m/s,"PMAG SR/LR GEN M3 20 7.62x51 20 rnd
+7.62x51 mm BPZ FMJ
+7.62x51 mm M61
+7.62x51 mm M62
+7.62x51 mm M80
+7.62x51 mm M993
+7.62x51 mm TPZ SP
+7.62x51 mm Ultra Nosler"
+22,HK 416A5 5.56x45 Assault Rifle,"
+
+Colt A2 AR-15 pistol grip
+DI ECS FDE pistol grip for AR-15 based systems
+Hera Arms HG-15 pistol grip for AR-15 based systems
+HK ""Battle Grip"" pistol grip for AR-15 based systems
+HK Battle Grip with Beavertail pistol grip for AR-15 based systems
+HK Ergo PSG-1 style pistol grip for AR-15 based systems
+HK Grip V.2 pistol grip for AR-15 based systems
+Hogue OverMolded Rubber Grip
+Hogue OverMolded Rubber Grip FDE
+Hogue OverMolded Rubber Grip Ghillie Earth
+Hogue OverMolded Rubber Grip Ghillie Green
+Hogue OverMolded Rubber Grip OD Green
+MIAD Pistol grip for AR-15 based systems
+Magpul MOE AR-15 pistol grip
+Magpul MOE AR-15 pistol grip (FDE)
+Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons
+Stark AR Rifle Grip (black) for AR-15-compatible weapons
+Stark AR Rifle Grip (FDE) for AR-15-compatible weapons
+Skeletonized AR-15 pistol grip
+DLG-123 pistol grip for AR-15 based systems
+,
+
+Upper receiver HK 416A5 5.56x45 for 416A5
+,
+
+F93 Pro Stock
+HK ""Enhanced Tube"" buffer tube
+UBR GEN2 black stock
+UBR GEN2 FDE stock
+Troy M7A1 PDW Blk stock
+Troy M7A1 PDW FDE stock
+,
+
+Colt AR-15 5.56x45 STANAG 30-round magazine
+HK Steel Maritime 5.56x45 STANAG 30-round magazine
+HK PM Gen.2 5.56x45 STANAG 30-round magazine
+HK Polymer mag 30 5.56x45 STANAG 30-round magazine
+Magpul PMAG D-60 5.56x45 60-round magazine
+PMAG GEN M3 10 5.56x45 STANAG 10-round magazine
+PMAG GEN M3 20 5.56x45 STANAG 20-round magazine
+PMAG GEN M3 30 5.56x45 STANAG 30-round magazine
+PMAG GEN M3 30 5.56x45 STANAG 30-round magazine (FDE)
+40-round PMAG GEN M3 40 5.56x45 STANAG magazine
+40-round PMAG GEN M3 FDE 40 5.56x45 STANAG magazine
+PMAG GEN M3 W 30 5.56x45 STANAG 30-round magazine
+PMAG GEN M3 FDE W 30 5.56x45 STANAG 30-round magazine
+100-round MAG5-100 5.56x45 STANAG magazine
+60-round MAG5-60 5.56x45 STANAG magazine
+TROY Battlemag 5.56x45 STANAG 30-round magazine
+,
+
+Badger Ordnance Tactical Charging Handle Latch
+Colt AR-15 charging handle for AR-15
+HK Extended latch Charging Handle
+Raptor charging handle for AR-15
+Raptor charging handle for AR-15 Grey
+Geissele ACH charging handle for AR-15
+Avalanche Mod.2 charging handle for AR-15
+MASP Ambi battle charging handle for AR-15
+,",Assault rifle,Primary,3.819 kg,5x2,Peacekeeper LL3Mechanic LL4: Stripped lower receiver,Vertical: 156Horizontal: 413,500 m,61,SingleFull Auto,850,300,5.56x45mm NATO,5.56x45 mm M855,852 m/s,"HK Steel Maritime 5.56x45 STANAG 30-round magazine
+5.56x45 mm 55 FMJ
+5.56x45 mm 55 HP
+5.56x45 mm M855
+5.56x45 mm M855A1
+5.56x45 mm M856
+5.56x45 mm M856A1
+5.56x45 mm M995
+5.56x45 mm Mk 255 Mod 0
+5.56x45 mm Mk 318 Mod 0 (SOST)
+5.56x45 mm SSA AP
+5.56x45 mm Warmage"
+23,Kel-Tec RFB 7.62x51,"
+
+18"" barrel for RFB 7.62x51
+,
+
+Kel-Tec RFB regular handguard
+,
+
+FAL/SA-58 7.62x51 10 rnd
+FAL/SA-58 7.62x51 20 rnd
+FAL/SA-58 7.62x51 30 rnd
+FAL/SA-58 ""MMW"" 7.62x51 20 rnd plastic mag
+British FAL/L1A1 7.62x51 30 rnd magazine
+,
+
+Kel-Tec RFB scope mount rail
+,",Assault rifle,Primary,3.606 kg,4x2,Peacekeeper LL2,Vertical: 173Horizontal: 307,900 m,48,Single,700,100,7.62x51mm NATO,7.62x51 mm M80,833 m/s,"FAL/SA-58 7.62x51 10 rnd
+7.62x51 mm BPZ FMJ
+7.62x51 mm M61
+7.62x51 mm M62
+7.62x51 mm M80
+7.62x51 mm M993
+7.62x51 mm TPZ SP
+7.62x51 mm Ultra Nosler"
+24,Colt M4A1 5.56x45 Assault Rifle,"
+
+ADAR 2-15 wooden stock
+Hera Arms CQR pistol grip-stock
+Colt A2 AR-15 pistol grip
+DI ECS FDE pistol grip for AR-15 based systems
+Hera Arms HG-15 pistol grip for AR-15 based systems
+HK ""Battle Grip"" pistol grip for AR-15 based systems
+HK Battle Grip with Beavertail pistol grip for AR-15 based systems
+HK Ergo PSG-1 style pistol grip for AR-15 based systems
+HK Grip V.2 pistol grip for AR-15 based systems
+Hogue OverMolded Rubber Grip
+Hogue OverMolded Rubber Grip FDE
+Hogue OverMolded Rubber Grip Ghillie Earth
+Hogue OverMolded Rubber Grip Ghillie Green
+Hogue OverMolded Rubber Grip OD Green
+MIAD Pistol grip for AR-15 based systems
+Magpul MOE AR-15 pistol grip
+Magpul MOE AR-15 pistol grip (FDE)
+Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons
+Stark AR Rifle Grip (black) for AR-15-compatible weapons
+Stark AR Rifle Grip (FDE) for AR-15-compatible weapons
+Skeletonized AR-15 pistol grip
+DLG-123 pistol grip for AR-15 based systems
+,
+
+Upper receiver ADAR 2-15 5.56x45 for 2-15 assault rifle
+Upper receiver Colt M4A1 5.56x45 for M4A1 assault rifle
+Lightweight upper 5.56x45 for TX15 rifle
+Noveske Gen.3 5.56x45 Upper receiver for AR systems
+Vltor MUR-1S 5.56x45 Upper receiver for AR systems
+,
+
+COLT ""A2"" buffer tube
+ADAR buffer tube
+Colt buffer tube
+Double Star Ace Socom gen.4 stock for AR-15
+F93 Pro Stock
+UBR GEN2 black stock
+UBR GEN2 FDE stock
+SI Advanced receiver extension buffer tube
+SI Advanced receiver extension buffer tube (anodized red)
+Troy M7A1 PDW Blk stock
+Troy M7A1 PDW FDE stock
+,
+
+Colt AR-15 5.56x45 STANAG 30-round magazine
+HK Steel Maritime 5.56x45 STANAG 30-round magazine
+HK PM Gen.2 5.56x45 STANAG 30-round magazine
+HK Polymer mag 30 5.56x45 STANAG 30-round magazine
+Magpul PMAG D-60 5.56x45 60-round magazine
+PMAG GEN M3 10 5.56x45 STANAG 10-round magazine
+PMAG GEN M3 20 5.56x45 STANAG 20-round magazine
+PMAG GEN M3 30 5.56x45 STANAG 30-round magazine
+PMAG GEN M3 30 5.56x45 STANAG 30-round magazine (FDE)
+40-round PMAG GEN M3 40 5.56x45 STANAG magazine
+40-round PMAG GEN M3 FDE 40 5.56x45 STANAG magazine
+PMAG GEN M3 W 30 5.56x45 STANAG 30-round magazine
+PMAG GEN M3 FDE W 30 5.56x45 STANAG 30-round magazine
+100-round MAG5-100 5.56x45 STANAG magazine
+60-round MAG5-60 5.56x45 STANAG magazine
+TROY Battlemag 5.56x45 STANAG 30-round magazine
+,
+
+ADAR 2-15 charging handle for AR-15
+Badger Ordnance Tactical Charging Handle Latch
+Colt AR-15 charging handle for AR-15
+HK Extended latch Charging Handle
+Raptor charging handle for AR-15
+Raptor charging handle for AR-15 Grey
+Geissele ACH charging handle for AR-15
+Avalanche Mod.2 charging handle for AR-15
+MASP Ambi battle charging handle for AR-15
+,",Assault rifle,Primary,2.935 kg,5x2,"Peacekeeper LL2: Standard variantMechanic LL2: Stripped lower receiverMechanic LL3: ""SOPMOD I"" variant after completing his task Gunsmith - Part 10",Vertical: 147Horizontal: 405,500 m,56,SingleFull Auto,800,600,5.56x45mm NATO,5.56x45 mm M855,866 m/s,"Colt AR-15 5.56x45 STANAG 30-round magazine
+5.56x45 mm 55 FMJ
+5.56x45 mm 55 HP
+5.56x45 mm M855
+5.56x45 mm M855A1
+5.56x45 mm M856
+5.56x45 mm M856A1
+5.56x45 mm M995
+5.56x45 mm Mk 255 Mod 0
+5.56x45 mm Mk 318 Mod 0 (SOST)
+5.56x45 mm SSA AP
+5.56x45 mm Warmage"
+25,SIG MCX .300 AAC Blackout Assault Rifle,"
+
+Colt A2 AR-15 pistol grip
+DI ECS FDE pistol grip for AR-15 based systems
+Hera Arms HG-15 pistol grip for AR-15 based systems
+HK ""Battle Grip"" pistol grip for AR-15 based systems
+HK Battle Grip with Beavertail pistol grip for AR-15 based systems
+HK Ergo PSG-1 style pistol grip for AR-15 based systems
+HK Grip V.2 pistol grip for AR-15 based systems
+Hogue OverMolded Rubber Grip
+Hogue OverMolded Rubber Grip FDE
+Hogue OverMolded Rubber Grip Ghillie Earth
+Hogue OverMolded Rubber Grip Ghillie Green
+Hogue OverMolded Rubber Grip OD Green
+Magpul MOE AR-15 pistol grip
+Magpul MOE AR-15 pistol grip (FDE)
+MIAD Pistol grip for AR-15 based systems
+Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons
+SIG MCX pistol grip
+Skeletonized AR-15 pistol grip
+Stark AR Rifle Grip (black) for AR-15-compatible weapons
+Stark AR Rifle Grip (FDE) for AR-15-compatible weapons
+,
+
+Upper receiver of the first generation Sig-Sauer MCX
+,
+
+SIG Sauer telescoping MCX/MPX stock
+SIG Sauer Thin lightweight MCX/MPX stock
+,
+
+100-round MAG5-100 5.56x45 STANAG magazine
+40-round PMAG GEN M3 40 5.56x45 STANAG magazine
+40-round PMAG GEN M3 FDE 40 5.56x45 STANAG magazine
+60-round MAG5-60 5.56x45 STANAG magazine
+Colt AR-15 5.56x45 STANAG 30-round magazine
+HK PM Gen.2 5.56x45 STANAG 30-round magazine
+HK Polymer mag 30 5.56x45 STANAG 30-round magazine
+HK Steel Maritime 5.56x45 STANAG 30-round magazine
+Magpul PMAG D-60 5.56x45 60-round magazine
+PMAG GEN M3 10 5.56x45 STANAG 10-round magazine
+PMAG GEN M3 20 5.56x45 STANAG 20-round magazine
+PMAG GEN M3 30 5.56x45 STANAG 30-round magazine
+PMAG GEN M3 30 5.56x45 STANAG 30-round magazine (FDE)
+PMAG GEN M3 FDE W 30 5.56x45 STANAG 30-round magazine
+PMAG GEN M3 W 30 5.56x45 STANAG 30-round magazine
+TROY Battlemag 5.56x45 STANAG 30-round magazine
+,
+
+Sig-Sauer charging handle for MCX
+,",Assault rifle,Primary,,5x2,Skier LL3,Vertical: 162Horizontal: 420,500 m,48,SingleFull Auto,800,300,.300 Blackout,.300 BPZ AAC Blackout,866 m/s,"Colt AR-15 5.56x45 STANAG 30-round magazine
+.300 AAC Blackout AP
+.300 BPZ AAC Blackout"
+26,DS Arms SA-58 7.62x51,"
+
+11"" barrel for SA-58 7.62x51
+16"" barrel for SA-58 7.62x51
+21"" barrel for SA-58 7.62x51
+,
+
+Fab AG FAL pistol grip for SA-58
+Regular ""DS Arms"" pistol grip for SA-58
+TAPCO SAW-Style black pistol grip for SA-58
+,
+
+DS Arms Extreme Duty dust cover for SA58
+Regular dust cover for FAL
+,
+
+DS Arms Holland Type Rearsight for SA-58
+,
+
+Aim sport Universal keymod foregrip for FAL
+Aim sport Universal M-LOK foregrip for FAL
+DS Arms quad rail foregrip for SA-58
+DS Arms Quad Rail Full Length foregrip for SA-58
+DSA Belgian style foregrip for a FAL
+Original Austrian foregrip for a FAL
+Vltor CASV FAL foregrip for FAL
+Vltor CASV FAS foregrip for FAL
+,
+
+Buffer Tube adapter for SA-58
+DSA BRS stock for SA-58
+DSA Folding stock for SA-58
+DSA SPR stock for SA-58
+Magpul PRS 2 polymer stock for FAL
+Polymer stock DSA humpback for SA-58
+,
+
+British FAL/L1A1 7.62x51 30 rnd magazine
+FAL/SA-58 ""MMW"" 7.62x51 20 rnd plastic mag
+FAL/SA-58 7.62x51 10 rnd
+FAL/SA-58 7.62x51 20 rnd
+FAL/SA-58 7.62x51 30 rnd
+X-FAL FAL/SA-58 7.62x51 50 rnd magazine
+,",Assault rifle,Primary,3.951 kg,5x2,"Peacekeeper LL3: ""BEL"" variantPeacekeeper LL4: Standard variantMechanic LL4: Stripped receiver",Vertical: 350Horizontal: 600,900 m,31,SingleFull Auto,700,500,7.62x51mm NATO,7.62x51 mm M80,837 m/s,"FAL/SA-58 7.62x51 20 rnd
+7.62x51 mm BPZ FMJ
+7.62x51 mm M61
+7.62x51 mm M62
+7.62x51 mm M80
+7.62x51 mm M993
+7.62x51 mm TPZ SP
+7.62x51 mm Ultra Nosler"
+27,Lone Star TX-15 DML Rifle,"
+
+ADAR 2-15 wooden stock
+Hera Arms CQR pistol grip-stock
+Colt A2 AR-15 pistol grip
+DI ECS FDE pistol grip for AR-15 based systems
+Hera Arms HG-15 pistol grip for AR-15 based systems
+HK ""Battle Grip"" pistol grip for AR-15 based systems
+HK Battle Grip with Beavertail pistol grip for AR-15 based systems
+HK Ergo PSG-1 style pistol grip for AR-15 based systems
+HK Grip V.2 pistol grip for AR-15 based systems
+Hogue OverMolded Rubber Grip
+Hogue OverMolded Rubber Grip FDE
+Hogue OverMolded Rubber Grip Ghillie Earth
+Hogue OverMolded Rubber Grip Ghillie Green
+Hogue OverMolded Rubber Grip OD Green
+MIAD Pistol grip for AR-15 based systems
+Magpul MOE AR-15 pistol grip
+Magpul MOE AR-15 pistol grip (FDE)
+Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons
+Stark AR Rifle Grip (black) for AR-15-compatible weapons
+Stark AR Rifle Grip (FDE) for AR-15-compatible weapons
+Skeletonized AR-15 pistol grip
+DLG-123 pistol grip for AR-15 based systems
+,
+
+Colt AR-15 5.56x45 STANAG 30-round magazine
+HK Steel Maritime 5.56x45 STANAG 30-round magazine
+HK PM Gen.2 5.56x45 STANAG 30-round magazine
+HK Polymer mag 30 5.56x45 STANAG 30-round magazine
+Magpul PMAG D-60 5.56x45 60-round magazine
+PMAG GEN M3 10 5.56x45 STANAG 10-round magazine
+PMAG GEN M3 20 5.56x45 STANAG 20-round magazine
+PMAG GEN M3 30 5.56x45 STANAG 30-round magazine
+PMAG GEN M3 30 5.56x45 STANAG 30-round magazine (FDE)
+40-round PMAG GEN M3 40 5.56x45 STANAG magazine
+40-round PMAG GEN M3 FDE 40 5.56x45 STANAG magazine
+PMAG GEN M3 W 30 5.56x45 STANAG 30-round magazine
+PMAG GEN M3 FDE W 30 5.56x45 STANAG 30-round magazine
+100-round MAG5-100 5.56x45 STANAG magazine
+60-round MAG5-60 5.56x45 STANAG magazine
+TROY Battlemag 5.56x45 STANAG 30-round magazine
+,
+
+Upper receiver ADAR 2-15 5.56x45 for 2-15 assault rifle
+Upper receiver Colt M4A1 5.56x45 for M4A1 assault rifle
+Lightweight upper 5.56x45 for TX15 rifle
+Noveske Gen.3 5.56x45 Upper receiver for AR systems
+Vltor MUR-1S 5.56x45 Upper receiver for AR systems
+,
+
+COLT ""A2"" buffer tube
+ADAR buffer tube
+Colt buffer tube
+Double Star Ace Socom gen.4 stock for AR-15
+F93 Pro Stock
+UBR GEN2 black stock
+UBR GEN2 FDE stock
+SI Advanced receiver extension buffer tube
+SI Advanced receiver extension buffer tube (anodized red)
+Troy M7A1 PDW Blk stock
+Troy M7A1 PDW FDE stock
+,
+
+ADAR 2-15 charging handle for AR-15
+Badger Ordnance Tactical Charging Handle Latch
+Colt AR-15 charging handle for AR-15
+HK Extended latch Charging Handle
+Raptor charging handle for AR-15
+Raptor charging handle for AR-15 Grey
+Avalanche Mod.2 charging handle for AR-15
+MASP Ambi battle charging handle for AR-15
+,",Assault rifle,Primary,3.184 kg,6x2,Skier LL3,Vertical: 140Horizontal: 380,500 m,67,Single,800,100,5.56x45mm NATO,5.56x45 mm M855,874 m/s,"Colt AR-15 5.56x45 STANAG 30-round magazine
+5.56x45 mm 55 FMJ
+5.56x45 mm 55 HP
+5.56x45 mm M855
+5.56x45 mm M855A1
+5.56x45 mm M856
+5.56x45 mm M856A1
+5.56x45 mm M995
+5.56x45 mm Mk 255 Mod 0
+5.56x45 mm Mk 318 Mod 0 (SOST)
+5.56x45 mm SSA AP
+5.56x45 mm Warmage"
+28,Vepr AKM / VPO-209 366TKM carbine,"
+
+Kiba Arms VDM CS gas tube
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Molot AKM type gas tube
+Handguard with a gas block combo by TROY Industries for AK
+UltiMAK M1-B gas tube for AK
+VS-24 Handguard with a VS-33c gas block combo for AK
+VS-24 white handguard with a VS-33c gas block combo for AK
+,
+
+GP-34 underbarrel grenade launcher
+,
+
+Thread protection for AKM/VPO-209
+Rotor 43 .366TKM muzzle brake
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+Izhmash AKM dust cover (6P1 0-1)
+Molot AKM type dust cover
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AKM / VPO-209 Standard Rearsight
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+Hexagon ""Kocherga"" stock red
+Izhmash polymer AK-74 stock (6P20 Sb.7)
+Izhmash polymer Plum AK-74 stock (6P20 Sb.7)
+Izhmash wooden AK-74 stock (6P20 Sb.5)
+CAA AKTS AK-74 Buffer Tube for AK and compatible
+Fab Defense UAS for AK
+Izhmash wooden AKM stock (6P1 Sb.5)
+Zhukov-S for AK
+Molot wooden VPO-136 stock
+Molot wooden VPO-209 stock
+ME adapter for AK
+AKM/AK-74 PT Lock
+,
+
+7.62x39 ribbed metal magazine for AK and compatibles, 10-round capacity
+Izhmash 6L10 7.62x39 magazine for AK and compatibles, 30-round capacity
+30-round 7.62x39 magazine for AK-103 and compatible weapons
+Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles
+Izhmash 7.62x39 AK aluminium magazine for AK and compatibles, 10-round capacity
+Izhmash 7.62x39 AKMS aluminium magazine for AK and compatibles, 30-round capacity
+Molot 6P2.Sb-11 7.62x39 magazine for AK and compatibles, 40-round capacity
+Bakelite 7.62x39 magazine for AK and compatibles, 40-round capacity
+PMAG 30 AK/AKM GEN M3 7.62x39 magazine for AK and compatibles, 30-round capacity
+Molot magazine for AK and compatibles, 75-round capacity
+ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (black)
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (FDE)
+X-47 AK 7.62x39 50 rnd magazine
+,
+
+Zenit RP-1 charge handle for AK
+,
+
+AKMP system front sight device
+,",Assault rifle,Primary,3.575 kg,5x2,Skier LL1: Standard variant after completing his task StirrupJaeger LL1: Standard variantMechanic LL2: Stripped receiver,Vertical: 290Horizontal: 485,300 m,42,Single,600,300,.366 TKM,.366 TKM EKO,593 m/s,"Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles
+.366 AP
+.366 TKM EKO
+.366 TKM FMJ
+.366 TKM Geksa"
+29,Vepr KM / VPO-136 7.62x39 carbine,"
+
+Kiba Arms VDM CS gas tube
+AK-74 Gas tube
+AKM (6P1 Sb.1-2) gas tube
+Molot AKM type gas tube
+Handguard with a gas block combo by TROY Industries for AK
+UltiMAK M1-B gas tube for AK
+VS-24 Handguard with a VS-33c gas block combo for AK
+VS-24 white handguard with a VS-33c gas block combo for AK
+,
+
+GP-34 underbarrel grenade launcher
+,
+
+Izhmash 7.62x39 AKM muzzle brake & compensator (6P1 0-14)
+Izhmash 7.62x39 flash hider for AKML system
+Lantac Dragon 7.62x39 muzzle brake & compensator for AK
+Molot 7.62x39 Vepr KM / VPO-136 muzzle brake & compensator
+Thread protection for AKM/VPO-209
+Spike tactical dynacomp 7.62x39 muzzle brake & compensator for AK
+Venom Antidote muzzle brake & compensator for AK
+Taktika Tula AK and AKM adapter
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Hexagon AKM 7.62x39 sound suppressor
+PBS-1 7.62x39 silencer
+Rotor 43 7.62x39 muzzle brake
+JMAC RRD-4C 7.62x39 muzzle brake for AKM type thread
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+AKademia Bastion dust cover for AK
+Fab Defence PDC dust cover for AK-74
+Izhmash AKM dust cover (6P1 0-1)
+Molot AKM type dust cover
+TWS Dog leg rail dust cover for AK
+Zenit B-33 dust cover for AK-74
+,
+
+AKM Standard Rearsight (6P1 Sb.2-1)
+AKMB system rear sight
+Tactica Tula TT01 Rearsight Weaver Adapter
+,
+
+AKMP system front sight device
+,
+
+Hexagon ""Kocherga"" stock red
+Izhmash polymer AK-74 stock (6P20 Sb.7)
+Izhmash polymer Plum AK-74 stock (6P20 Sb.7)
+Izhmash wooden AK-74 stock (6P20 Sb.5)
+CAA AKTS AK-74 Buffer Tube for AK and compatible
+Fab Defense UAS for AK
+Izhmash wooden AKM stock (6P1 Sb.5)
+Zhukov-S for AK
+Molot wooden VPO-136 stock
+Molot wooden VPO-209 stock
+ME adapter for AK
+AKM/AK-74 PT Lock
+,
+
+7.62x39 ribbed metal magazine for AK and compatibles, 10-round capacity
+Izhmash 6L10 7.62x39 magazine for AK and compatibles, 30-round capacity
+30-round 7.62x39 magazine for AK-103 and compatible weapons
+Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles
+Izhmash 7.62x39 AK aluminium magazine for AK and compatibles, 10-round capacity
+Izhmash 7.62x39 AKMS aluminium magazine for AK and compatibles, 30-round capacity
+Molot 6P2.Sb-11 7.62x39 magazine for AK and compatibles, 40-round capacity
+Bakelite 7.62x39 magazine for AK and compatibles, 40-round capacity
+PMAG 30 AK/AKM GEN M3 7.62x39 magazine for AK and compatibles, 30-round capacity
+Molot magazine for AK and compatibles, 75-round capacity
+ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (black)
+Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity (FDE)
+X-47 AK 7.62x39 50 rnd magazine
+,
+
+Zenit RP-1 charge handle for AK
+,",Assault rifle,Primary,3.575 kg,5x2,Skier LL1,Vertical: 193Horizontal: 448,400 m,42,Single,600,500,7.62x39mm,7.62x39 mm BP,716 m/s,"Izhmash AK magazine (issued ‘55 or later) 30-round for 7.62x39 AK and compatibles
+7.62x39 mm BP
+7.62x39 mm HP
+7.62x39 mm MAI AP
+7.62x39 mm PS
+7.62x39 mm T45M
+7.62x39 mm US"
+30,Simonov Semi-Automatic Carbine SKS 7.62x39 Hunting Rifle Version,"
+
+Weapon Tuning SKS tread adapter
+Hexagon SKS 7.62x39 sound suppressor
+,
+
+SKS Standard Rearsight
+,
+
+Fab Defence UAS Stock for SKS
+Wooden stock for Molot OP-SKS
+Tapco INTRAFUSE Stock for SKS
+Wooden stock 56-A-231 Sb.5
+,
+
+10 rnds. SKS internal box magazine 7.62x39
+ProMag AALVX 35 7.62x39 35-round SKS magazine.
+ProMag SKS-A5 7.62x39 20-round SKS magazine
+,
+
+Dovetail OP-SKS mount.
+,",Assault carbine,Primary,3.697 kg,5x1,Jaeger LL1,Vertical: 182Horizontal: 400,400 m,43,Single,40,500,7.62x39mm,7.62x39 mm BP,700 m/s,"10 rnds. SKS internal box magazine 7.62x39
+7.62x39 mm BP
+7.62x39 mm HP
+7.62x39 mm MAI AP
+7.62x39 mm PS
+7.62x39 mm T45M
+7.62x39 mm US"
+31,Simonov Semi-Automatic Carbine SKS 7.62x39,"
+
+Weapon Tuning SKS tread adapter
+Hexagon SKS 7.62x39 sound suppressor
+,
+
+SKS Standard Rearsight
+,
+
+Fab Defence UAS Stock for SKS
+Wooden stock for Molot OP-SKS
+Tapco INTRAFUSE Stock for SKS
+Wooden stock 56-A-231 Sb.5
+,
+
+ProMag AALVX 35 7.62x39 35-round SKS magazine.
+ProMag SKS-A5 7.62x39 20-round SKS magazine
+10 rnds. SKS internal box magazine 7.62x39
+,",Assault carbine,Primary,3.677 kg,5x1,Prapor LL1,Vertical: 182Horizontal: 400,400 m,45,Single,40,500,7.62x39mm,7.62x39 mm PS,700 m/s,"10 rnds. SKS internal box magazine 7.62x39
+7.62x39 mm BP
+7.62x39 mm HP
+7.62x39 mm MAI AP
+7.62x39 mm PS
+7.62x39 mm T45M
+7.62x39 mm US"
+32,Vepr Hunter/VPO-101 7.62x51 carbine,"
+
+VPO-101 Gas tube
+,
+
+Rotor 43 7.62x51 muzzle brake for VPO-101
+,
+
+Molot VPO-101 dust cover
+,
+
+Tactica Tula TT01 Rearsight Weaver Adapter
+VPO-101 Standard Rearsight
+,
+
+Regular VPO-101 ""Vepr Hunter"" stock
+VPO-101 SVD style stock
+,
+
+7.62x51 metal magazine for VPO-101 and compatibles, 5-round capacity
+7.62x51 metal magazine for VPO-101 and compatibles, 10-round capacity
+,
+
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+SVD Low sidemount
+,",Assault carbine,Primary,3.807 kg,5x1,Jaeger LL2,Vertical: 400Horizontal: 650,400 m,45,Single,600,500,7.62x51mm NATO,7.62x51 mm M61,864 m/s,7.62x51 metal magazine for VPO-101 and compatibles 5-round capacity
+33,RPK-16 5.45x39 light machine gun,"
+
+15"" barrel for RPK-16 and compatible 5.45x39
+22"" barrel for RPK-16 and compatible 5.45x39
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+,
+
+Izhmash regular dust cover for RPK-16
+,
+
+Izhmash RPK-16 regular handguard
+,
+
+Izhmash RPK-16 buffer tube
+,
+
+6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons
+6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+30-round 6L23 Plum 5.45x39 magazine for AK-74 and compatibles
+45-round 6L26 5.45x39 magazine for AK-74 and compatibles
+60-round 6L31 5.45x39 magazine for AK-74 and compatibles
+10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles
+Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity
+30-round 5.45x39 magazine for AK-12 and compatibles
+95-round 5.45x39 magazine for RPK-16 and compatibles
+,
+
+Zenit RP-1 charge handle for AK
+,",Light machine gun,Primary,3.832 kg,5x2,Prapor LL4,Vertical: 131Horizontal: 370,650 m,34,SingleFull Auto,650,600,5.45x39mm,5.45x39 mm BP,839 m/s,"95-round 5.45x39 magazine for RPK-16 and compatibles
+5.45x39 mm 7N39 ""Igolnik""
+5.45x39 mm BP
+5.45x39 mm BS
+5.45x39 mm BT
+5.45x39 mm FMJ
+5.45x39 mm HP
+5.45x39 mm PP
+5.45x39 mm PRS
+5.45x39 mm PS
+5.45x39 mm SP
+5.45x39 mm T
+5.45x39 mm US"
+34,HK MP5 9x19 submachinegun (Navy 3 Round Burst),"
+
+HK MP5 Upper receiver
+HK MP5SD Upper receiver
+,
+
+Standard MP5 20-round 9x19 magazine
+Standard MP5 30-round 9x19 magazine
+X Products X-5 MP5 50-round 9x19 magazine
+,
+
+MP5 Cocking Handle
+,",Submachine gun,Primary,2.481 kg,4x2,Peacekeeper LL2: Standard variantPeacekeeper LL2: Silenced variant after completing his task Scrap Metal,Vertical: 73Horizontal: 340,200 m,70,Single3-round BurstFull Auto,800,200,9x19mm Parabellum,9x19 mm PSO gzh,384 m/s,"Standard MP5 30-round 9x19 magazine
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+35,HK MP5 Kurz 9x19 submachinegun,"
+
+Standard MP5 20-round 9x19 magazine
+Standard MP5 30-round 9x19 magazine
+X Products X-5 MP5 50-round 9x19 magazine
+,
+
+HK MP5 Kurz Upper receiver
+,
+
+MP5 Kurz Cocking Handle
+,",Submachine gun,Primary,0.68 kg,2x1,Peacekeeper LL1,Vertical: 75Horizontal: 330,200 m,75,Single3-round BurstFull Auto,900,200,9x19mm Parabellum,9x19 mm PSO gzh,384 m/s,"Standard MP5 30-round 9x19 magazine
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+36,HK MP7A1 4.6x30 submachinegun,"
+
+HK A1 4.6x30 Flash hider for MP7
+,
+
+MP7 Flip Up Rearsight
+KAC Folding sight Rear
+Magpul MBUS Gen.2 Rearsight
+Magpul MBUS Gen.2 Rearsight FDE
+SIG MPX Flip Up Rearsight
+SIG MCX Flip Up sight Rearsight
+,
+
+KAC Folding sight Frontsight
+Magpul MBUS Gen.2 Frontsight
+Magpul MBUS Gen.2 Frontsight FDE
+MP7 Flip Up Frontsight
+SIG MPX Flip Up Frontsight
+,
+
+Regular stock for HK MP7A1
+Regular stock for HK MP7A2
+,
+
+Standard MP7 20-round 4.6x30 magazine
+Standard MP7 30-round 4.6x30 magazine
+Standard MP7 40-round 4.6x30 magazine
+,
+
+Holosun LS321 Tactical device
+AN/PEQ-15 tactical device
+LA-5 tactical device
+Surefire XC1 tactical flashlight
+Zenit Perst-3 tactical device
+NcSTAR Tactical blue laser LAM-Module
+Glock Tactical GL21 flashlight with laser
+Holosun LS321 Tactical device
+LAS/TAC 2 tactical flashlight
+X400 tactical flashlight
+Zenit 2IRS Klesch flashlight + laser designator
+Zenit 2P Klesch flashlight + laser designator
+Zenit 2U Klesch tactical flashlight
+Zenit Perst-3 tactical device
+25 mm mount ring
+,
+
+ELCAN SpecterDR 1x/4x Scope
+ELCAN SpecterDR 1x/4x Scope FDE
+Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope
+Monstrum Compact prism scope 2x32
+Sig BRAVO4 4X30 Scope
+Valday PS-320 1x/6x Scope
+Cobra EKP-8-18 reflex sight
+OKP-7 reflex sight
+Eotech 553 holographic sight
+Eotech EXPS3 holographic sight
+Eotech HHS-1 sight
+Eotech HHS-1 sight Tan
+Eotech XPS3-0 holographic sight
+Eotech XPS3-2 holographic sight
+Holosun HS401G5 reflex sight
+Trijicon SRS-02 reflex sight
+Valday 1P87 holographic sight
+VOMZ Pilad P1X42 ""WEAVER"" reflex sight
+Vortex Razor AMG UH-1 holographic sight
+Walther MRS reflex sight
+Belomo PK-06 reflex sight
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+Aimpoint mount for the sights of Micro series
+Aimpoint LRP mount for COMP M4 sights.
+Armasight universal base
+Burris FastFire Weaver Base
+Cross Slot Mount base for Deltapoint scopes
+Compact mount for sights
+Sig Sauer mount for the sights of Romeo series.
+High profile mount for Trijicon RMR
+Low profile mount for Trijicon RMR
+TA51 Mount for sights
+UNV DLOC-IRD Mount for sights
+,",Submachine gun,Primary,2.27 kg,3x1,Peacekeeper LL3,Vertical: 65Horizontal: 221,200 m,67,SingleFull Auto,950,300,4.6x30mm HK,4.6x30mm FMJ SX,703 m/s,"Standard MP7 20-round 4.6x30 magazine
+4.6x30mm Action SX
+4.6x30mm AP SX
+4.6x30mm FMJ SX
+4.6x30mm Subsonic SX"
+37,HK MP7A2 4.6x30 submachinegun,"
+
+HK A1 4.6x30 Flash hider for MP7
+,
+
+MP7 Flip Up Rearsight
+KAC Folding sight Rear
+Magpul MBUS Gen.2 Rearsight
+Magpul MBUS Gen.2 Rearsight FDE
+SIG MPX Flip Up Rearsight
+SIG MCX Flip Up sight Rearsight
+,
+
+KAC Folding sight Frontsight
+Magpul MBUS Gen.2 Frontsight
+Magpul MBUS Gen.2 Frontsight FDE
+MP7 Flip Up Frontsight
+SIG MPX Flip Up Frontsight
+,
+
+Regular stock for HK MP7A1
+Regular stock for HK MP7A2
+,
+
+Standard MP7 20-round 4.6x30 magazine
+Standard MP7 30-round 4.6x30 magazine
+Standard MP7 40-round 4.6x30 magazine
+,
+
+Holosun LS321 Tactical device
+AN/PEQ-15 tactical device
+LA-5 tactical device
+Surefire XC1 tactical flashlight
+Zenit Perst-3 tactical device
+NcSTAR Tactical blue laser LAM-Module
+Glock Tactical GL21 flashlight with laser
+Holosun LS321 Tactical device
+LAS/TAC 2 tactical flashlight
+X400 tactical flashlight
+Zenit 2IRS Klesch flashlight + laser designator
+Zenit 2P Klesch flashlight + laser designator
+Zenit 2U Klesch tactical flashlight
+Zenit Perst-3 tactical device
+25 mm mount ring
+NcSTAR Tactical blue laser LAM-Module
+,
+
+BCM MOD.3 Tactical grip
+ASh-12 Vertical pistol grip
+Fortis Shift tactical grip
+KAC Vertical pistol grip
+Magpul AFG grip black
+Magpul AFG grip FDE
+Magpul AFG grip FG
+Magpul AFG grip OD
+Magpul RVG grip black
+RTM Pillau Tactical grip
+SE-5 Express Grip
+SI ""Cobra tactical"" tactical grip
+Tango Down Stubby BGV-MK46K tactical grip
+Tango Down Stubby BGV-MK46K tactical grip FDE
+Tango Down Stubby BGV-MK46K tactical grip FG
+Viking Tactical UVG Tactical grip
+Zenit RK-1 Foregrip on B-25U mount
+Zenit RK-0 Foregrip
+Zenit RK-1 Foregrip
+Zenit RK-2 Foregrip
+Zenit RK-4 Foregrip
+Zenit RK-5 Foregrip
+Zenit RK-6 Foregrip
+TD Aluminium skeletonized vertical grip
+,
+
+ELCAN SpecterDR 1x/4x Scope
+ELCAN SpecterDR 1x/4x Scope FDE
+Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope
+Monstrum Compact prism scope 2x32
+Sig BRAVO4 4X30 Scope
+Valday PS-320 1x/6x Scope
+Cobra EKP-8-18 reflex sight
+OKP-7 reflex sight
+Eotech 553 holographic sight
+Eotech EXPS3 holographic sight
+Eotech HHS-1 sight
+Eotech HHS-1 sight Tan
+Eotech XPS3-0 holographic sight
+Eotech XPS3-2 holographic sight
+Holosun HS401G5 reflex sight
+Trijicon SRS-02 reflex sight
+Valday 1P87 holographic sight
+VOMZ Pilad P1X42 ""WEAVER"" reflex sight
+Vortex Razor AMG UH-1 holographic sight
+Walther MRS reflex sight
+Belomo PK-06 reflex sight
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+Aimpoint mount for the sights of Micro series
+Aimpoint LRP mount for COMP M4 sights.
+Armasight universal base
+Burris FastFire Weaver Base
+Cross Slot Mount base for Deltapoint scopes
+Compact mount for sights
+Sig Sauer mount for the sights of Romeo series.
+High profile mount for Trijicon RMR
+Low profile mount for Trijicon RMR
+TA51 Mount for sights
+UNV DLOC-IRD Mount for sights
+,",Submachine gun,Primary,2.23 kg,3x1,,Vertical: 65Horizontal: 221,200 m,67,SingleFull Auto,950,300,4.6x30mm HK,4.6x30mm FMJ SX,703 m/s,"Standard MP7 20-round 4.6x30 magazine
+4.6x30mm Action SX
+4.6x30mm AP SX
+4.6x30mm FMJ SX
+4.6x30mm Subsonic SX"
+38,B&T MP9 9x19 submachinegun,"
+
+B&T adapter for MP9 regular suppressor.
+,
+
+Upper receiver B&T 9x19 for MP9-N SMG
+Upper receiver B&T 9x19 for MP9 SMG
+,
+
+Regular stock for B&T MP9
+,
+
+Standard 9x19 15-round magazine for MP9
+Standard 9x19 20-round magazine for MP9
+Standard 9x19 25-round magazine for MP9
+Standard 9x19 30-round magazine for MP9
+,
+
+B&T MP9 bottom rail
+,
+
+B&T charging handle for MP9
+,",Submachine gun,Primary,1.290 kg,3x1,Peacekeeper LL2,Vertical: 70Horizontal: 315,200 m,75,SingleFull Auto,900,200,9x19mm Parabellum,9x19 mm PSO gzh,384 m/s,"Standard 9x19 15-round magazine for MP9
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+39,B&T MP9-N 9x19 Submachinegun,"
+
+B&T adapter for MP9 regular suppressor.
+,
+
+Upper receiver B&T 9x19 for MP9-N SMG
+Upper receiver B&T 9x19 for MP9 SMG
+,
+
+Regular stock for B&T MP9
+,
+
+Standard 9x19 15-round magazine for MP9
+Standard 9x19 20-round magazine for MP9
+Standard 9x19 25-round magazine for MP9
+Standard 9x19 30-round magazine for MP9
+,
+
+B&T MP9-N Vertical grip
+,
+
+B&T charging handle for MP9
+,",Submachine gun,Primary,1.540 kg,3x1,,Vertical: 70Horizontal: 315,200 m,75,SingleFull Auto,1100,200,9x19mm Parabellum,9x19 mm PSO gzh,384 m/s,"Standard 9x19 15-round magazine for MP9
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+40,SIG MPX 9x19 Submachine gun,"
+
+Colt A2 AR-15 pistol grip
+DI ECS FDE pistol grip for AR-15 based systems
+Hera Arms HG-15 pistol grip for AR-15 based systems
+HK ""Battle Grip"" pistol grip for AR-15 based systems
+HK Battle Grip with Beavertail pistol grip for AR-15 based systems
+HK Ergo PSG-1 style pistol grip for AR-15 based systems
+HK Grip V.2 pistol grip for AR-15 based systems
+Hogue OverMolded Rubber Grip
+Hogue OverMolded Rubber Grip FDE
+Hogue OverMolded Rubber Grip Ghillie Earth
+Hogue OverMolded Rubber Grip Ghillie Green
+Hogue OverMolded Rubber Grip OD Green
+MIAD Pistol grip for AR-15 based systems
+Magpul MOE AR-15 pistol grip
+Magpul MOE AR-15 pistol grip (FDE)
+Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons
+Stark AR Rifle Grip (black) for AR-15-compatible weapons
+Stark AR Rifle Grip (FDE) for AR-15-compatible weapons
+Skeletonized AR-15 pistol grip
+Pistol grip SIG MPX
+DLG-123 pistol grip for AR-15 based systems
+,
+
+Upper receiver of the first generation SIG MPX
+,
+
+SIG retractable stock pipe adapter
+Early produced SIG collapsing/telescoping MCX/MPX stock
+Maxim Defence CQB collapsing/telescoping MCX/MPX stock
+PMM ""ULSS"" foldable MCX/MPX stock
+,
+
+F5 MPX Drum mag 50-round 9x19 magazine
+MPX with TTI Base pad +11 41-round 9x19 magazine
+Standard MPX 20-round 9x19 magazine
+Standard MPX 30-round 9x19 magazine
+,
+
+Geissele ""SCH"" charging handle for MPX
+SIG double latch charging handle for MPX
+SIG single latch charging handle for MPX
+,",Submachine gun,Primary,2.902 kg,4x2,Peacekeeper LL2: Standard variantPeacekeeper LL3: Silenced variant,Vertical: 67Horizontal: 333,500 m,59,SingleFull Auto,850,300,9x19mm Parabellum,9x19 mm PSO gzh,286 m/s,"Standard MPX 30-round 9x19 magazine
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+41,FN P90 5.7x28 submachinegun,"
+
+FN magazine for P90, 50-round capacity
+,
+
+FN P90 stock
+FN PS90 stock
+,
+
+FN EFFEN 90 Upper receiver for P90
+FN Upper receiver for P90
+FN Upper receiver for PS90
+,
+
+10.5"" barrel for P90 5.7x28
+16"" barrel for P90 5.7x28
+,
+
+FN charge handle for P90
+K&M The Handler charge handle for P90
+,",Submachine gun,Primary,2.974 kg,3x2,Peacekeeper LL4,Vertical: 60Horizontal: 300,200 m,73,SingleFull Auto,900,200,5.7x28mm FN,5.7x28 mm SS190,? m/s,FN magazine for P90 50-round capacity
+42,Submachinegun PP-19-01 Vityaz-SN 9x19,"
+
+PP-19-01 gas tube
+,
+
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Izhmash 9x19 PP-19-01 muzzle brake/compensator
+Izhmash 9x19 Saiga-9 muzzle brake/compensator
+Rotor 43 9x19 muzzle brake
+Sig SRD 9 9x19mm sound suppressor
+SilencerCo Osprey 9 9x19mm sound suppressor
+Vityaz 9x19 sound suppressing device
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+Izhmash Vityaz receiver cover
+Izhmash Vityaz-SN receiver cover
+,
+
+Izhmash rear sight for PP-19-01
+,
+
+AK74/AK100 PT Lock
+Metal Izhmash stock for PP-19-01
+CAA AKTS AK-74 Buffer Tube for AK and compatible (foldable)
+,
+
+10-round Izh.9x19 Sb.7 magazine
+Standard PP-19-01 30-round 9x19 magazine
+PUFGUN SG-919 20 20-round 9x19 magazine for  PP-19-01
+PUFGUN SG-919 30 30-round 9x19 magazine for  PP-19-01
+,
+
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13V rail platform above reciever ""Classic""
+,
+
+Zenit RP-1 charge handle for AK
+,",Submachine gun,Primary,2.888 kg,3x2,Prapor LL2,Vertical: 84Horizontal: 350,200 m,55,SingleFull Auto,700,200,9x19mm Parabellum,9x19 mm PSO gzh,377 m/s,"Standard PP-19-01 30-round 9x19 magazine
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+43,PP-9 Klin 9x18PMM SMG,"
+
+ZMZ Polymer pistol grip for PP-91
+,
+
+Standard 9x18PM 20-round magazine for PP-91
+Standard 9x18PM 30-round magazine for PP-91
+,
+
+Rotor 43 RIS mount for PP Kedr
+,",Submachine gun,Primary,1.529 kg,3x2,Prapor LL2,Vertical: 65Horizontal: 235,100 m,70,SingleFull Auto,1000,100,9x18mm Makarov,9x18 mm PM 9 BZT gzh,283 m/s,"Standard 9x18PM 30-round magazine for PP-91
+9x18 mm PM 9 BZT gzh
+9x18 mm PM 9 P gzh
+9x18 mm PM PBM
+9x18 mm PM PMM
+9x18 mm PM PPe gzh
+9x18 mm PM PPT gzh
+9x18 mm PM PRS gs
+9x18 mm PM PS gs PPO
+9x18 mm PM PSO gzh
+9x18 mm PM Pst gzh
+9x18 mm PM PSV
+9x18 PM mm RG028 gzh
+9x18 mm PM SP7 gzh
+9x18 mm PM SP8 gzh"
+44,PP-91 Kedr 9x18PM SMG,"
+
+ZMZ Polymer pistol grip for PP-91
+,
+
+Standard 9x18PM 20-round magazine for PP-91
+Standard 9x18PM 30-round magazine for PP-91
+,
+
+Rotor 43 RIS mount for PP Kedr
+,",Submachine gun,Primary,1.529 kg,3x2,Prapor LL1,Vertical: 65Horizontal: 235,100 m,70,SingleFull Auto,900,100,9x18mm Makarov,9x18 mm PM 9 BZT gzh,283 m/s,"Standard 9x18PM 30-round magazine for PP-91
+9x18 mm PM 9 BZT gzh
+9x18 mm PM 9 P gzh
+9x18 mm PM PBM
+9x18 mm PM PPe gzh
+9x18 mm PM PPT gzh
+9x18 mm PM PRS gs
+9x18 mm PM PS gs PPO
+9x18 mm PM PSO gzh
+9x18 mm PM Pst gzh
+9x18 mm PM PSV
+9x18 PM mm RG028 gzh
+9x18 mm PM SP7 gzh
+9x18 mm PM SP8 gzh"
+45,PP-91-01 Kedr-B 9x18PM SMG,"
+
+PP-91-01 Kedr-B muzzle thread piece
+,
+
+ZMZ Polymer pistol grip for PP-91
+,
+
+Standard 9x18PM 20-round magazine for PP-91
+Standard 9x18PM 30-round magazine for PP-91
+,",Submachine gun,Primary,1.729 kg,3x2,Prapor LL2,Vertical: 65Horizontal: 235,100 m,66,SingleFull Auto,900,100,9x18mm Makarov,9x18 mm PM 9 BZT gzh,289 m/s,"Standard 9x18PM 30-round magazine for PP-91
+9x18 mm PM 9 BZT gzh
+9x18 mm PM 9 P gzh
+9x18 mm PM PBM
+9x18 mm PM PPe gzh
+9x18 mm PM PPT gzh
+9x18 mm PM PRS gs
+9x18 mm PM PS gs PPO
+9x18 mm PM PSO gzh
+9x18 mm PM Pst gzh
+9x18 mm PM PSV
+9x18 PM mm RG028 gzh
+9x18 mm PM SP7 gzh
+9x18 mm PM SP8 gzh"
+46,Submachinegun PPSH-41 7.62x25,"
+
+10.6"" barrel for PPSH-41 7.62x25
+,
+
+35-round 7.62x25 magazine for PPSH-41
+71-round 7.62x25 magazine for PPSH-41
+,
+
+PPSH-41 dust cover
+,
+
+PPSH-41 stock
+,",Submachine gun,Primary,4.050 kg,4x2,Prapor LL1,Vertical: 97Horizontal: 360,200 m,36,SingleFull Auto,1000,100,7.62x25mm Tokarev,7.62x25mm TT FMJ43,350 m/s,"35-round 7.62x25 magazine for PPSH-41
+7.62x25mm TT AKBS
+7.62x25mm TT FMJ43
+7.62x25mm TT LRN
+7.62x25mm TT LRNPC
+7.62x25mm TT P gl
+7.62x25mm TT Pst gzh
+7.62x25mm TT PT gzh"
+47,Saiga-9 9x19 Carbine,"
+
+PP-19-01 gas tube
+,
+
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Izhmash 9x19 PP-19-01 muzzle brake/compensator
+Izhmash 9x19 Saiga-9 muzzle brake/compensator
+Rotor 43 9x19 muzzle brake
+Sig SRD 9 9x19mm sound suppressor
+SilencerCo Osprey 9 9x19mm sound suppressor
+Vityaz 9x19 sound suppressing device
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+Izhmash Vityaz-SN receiver cover
+Izhmash Vityaz receiver cover
+,
+
+Izhmash rear sight for PP-19-01
+,
+
+AK74/AK100 PT Lock
+Metal Izhmash stock for PP-19-01
+CAA AKTS AK-74 Buffer Tube for AK and compatible (foldable)
+,
+
+10-round Izh.9x19 Sb.7 magazine
+Standard PP-19-01 30-round 9x19 magazine
+PUFGUN SG-919 20 20-round 9x19 magazine for  PP-19-01
+PUFGUN SG-919 30 30-round 9x19 magazine for  PP-19-01
+,
+
+Zenit RP-1 charge handle for AK
+,",Submachine gun,Primary,3.041 kg,4x2,Skier LL1 after completing his task Supplier,Vertical: 55Horizontal: 305,300 m,52,Single,650,200,9x19mm Parabellum,9x19 mm Pst gzh,375 m/s,"Standard PP-19-01 30-round 9x19 magazine
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+48,STM-9 Gen.2 9x19 carabine,"
+
+ADAR 2-15 wooden stock
+Hera Arms CQR pistol grip-stock
+Colt A2 AR-15 pistol grip
+DI ECS FDE pistol grip for AR-15 based systems
+DLG-123 pistol grip for AR-15 based systems
+Hera Arms HG-15 pistol grip for AR-15 based systems
+HK ""Battle Grip"" pistol grip for AR-15 based systems
+HK Battle Grip with Beavertail pistol grip for AR-15 based systems
+HK Ergo PSG-1 style pistol grip for AR-15 based systems
+HK Grip V.2 pistol grip for AR-15 based systems
+Hogue OverMolded Rubber Grip
+Hogue OverMolded Rubber Grip FDE
+Hogue OverMolded Rubber Grip Ghillie Earth
+Hogue OverMolded Rubber Grip Ghillie Green
+Hogue OverMolded Rubber Grip OD Green
+MIAD Pistol grip for AR-15 based systems
+Magpul MOE AR-15 pistol grip
+Magpul MOE AR-15 pistol grip (FDE)
+Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons
+SIG MCX pistol grip
+Stark AR Rifle Grip (black) for AR-15-compatible weapons
+Stark AR Rifle Grip (FDE) for AR-15-compatible weapons
+Skeletonized AR-15 pistol grip
+,
+
+Upper receiver for STM-9 9x19 carbine
+,
+
+COLT ""A2"" buffer tube
+ADAR buffer tube
+Colt buffer tube
+Double Star Ace Socom gen.4 stock for AR-15
+F93 Pro Stock
+UBR GEN2 black stock
+UBR GEN2 FDE stock
+STM Arms buffer tube
+SI Advanced receiver extension buffer tube
+SI Advanced receiver extension buffer tube (anodized red)
+Troy M7A1 PDW Blk stock
+Troy M7A1 PDW FDE stock
+,
+
+""Big Stick"" 9x19 magazine for Glock 9x19
+Glock 9x19 magazine
+Pmag GL9 polymer magazine
+SGMT Drum mag for Glock 9x19, 50 rounds capacity
+,
+
+ADAR 2-15 charging handle for AR-15
+Badger Ordnance Tactical Charging Handle Latch
+Colt AR-15 charging handle for AR-15
+Geissele ACH charging handle for AR-15
+HK Extended latch Charging Handle
+MASP Ambi battle charging handle for AR-15
+Raptor charging handle for AR-15
+Raptor charging handle for AR-15 Grey
+Avalanche Mod.2 charging handle for AR-15
+,",Submachine gun,Primary,2.036 kg,4x2,Skier LL2,Vertical: 58Horizontal: 280,500 m,50,Single,800,100,9x19mm Parabellum,9x19 mm PSO gzh,341 m/s,"""Big Stick"" 9x19 magazine for Glock 9x19
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+49,HK UMP 45 submachinegun,"
+
+8"" barrel for UMP .45 ACP
+,
+
+Polymer stock for UMP
+,
+
+Standard UMP 25-round .45 ACP magazine
+,
+
+HK UMP Side rail
+HK UMP Bottom rail
+,
+
+Aimpoint LRP mount for COMP M4 sights.
+Aimpoint mount for the sights of Micro series
+Armasight universal base
+Belomo PK-06 reflex sight
+Burris FastFire Weaver Base
+Cobra EKP-8-18 reflex sight
+Compact mount for sights
+Cross Slot Mount base for Deltapoint scopes
+ELCAN SpecterDR 1x/4x Scope
+ELCAN SpecterDR 1x/4x Scope FDE
+Eotech 553 holographic sight
+Eotech EXPS3 holographic sight
+Eotech HHS-1 sight
+Eotech HHS-1 sight Tan
+Eotech XPS3-0 holographic sight
+Eotech XPS3-2 holographic sight
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+High profile mount for Trijicon RMR
+Holosun HS401G5 reflex sight
+Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope
+Low profile mount for Trijicon RMR
+Monstrum Compact prism scope 2x32
+NcSTAR ADO P4 Sniper 3-9x42 riflescope
+OKP-7 reflex sight
+Sig BRAVO4 4X30 Scope
+Sig Sauer mount for the sights of Romeo series.
+TA51 Mount for sights
+Trijicon SRS-02 reflex sight
+UNV DLOC-IRD Mount for sights
+Valday 1P87 holographic sight
+Valday PS-320 1x/6x Scope
+VOMZ Pilad P1X42 ""WEAVER"" reflex sight
+Vortex Razor AMG UH-1 holographic sight
+Walther MRS reflex sight
+,",Submachine gun,Primary,1.22 kg,,Peacekeeper LL2,Vertical: 97Horizontal: 350,200 m,60,SingleFull Auto,600,50 m,.45 ACP,.45 ACP FMJ,,"Standard UMP 25-round .45 ACP magazine
+.45 ACP AP
+.45 ACP FMJ
+.45 ACP Hydra-Shok
+.45 ACP Lasermatch FMJ
+.45 RIP"
+50,TDI KRISS Vector Gen.2 .45 ACP submachinegun,"
+
+5"" Vector barrel .45 ACP
+6"" Vector barrel .45 ACP
+,
+
+KRISSVector Gen.2 folding stock
+KRISS Vector non folding stock adapter
+,
+
+Glock .45 ACP magazine
+Magex G30 magazine for Glock .45 ACP
+,
+
+KRISS Vector Bottom rail
+KRISS Vector Side rail
+KRISS Mk.5 Modular rail for Vector
+,
+
+KAC Folding micro sight Frontsight
+KAC Folding sight Frontsight
+Kriss ""Defiance Low Profile Flip Up"" Frontsight
+Magpul MBUS Gen.2 Frontsight
+Magpul MBUS Gen.2 Frontsight FDE
+MP7 Flip Up Frontsight
+SIG MPX Flip Up Frontsight
+,
+
+KAC Folding micro sight Rear
+KAC Folding sight Rear
+KRISS Defiance Low Profile Flip-Up rear sight
+Magpul MBUS Gen.2 Rearsight
+Magpul MBUS Gen.2 Rearsight FDE
+MP7 Flip Up Rearsight
+SIG MPX Flip Up Rearsight
+,
+
+Aimpoint LRP mount for COMP M4 sights.
+Aimpoint mount for the sights of Micro series
+Armasight universal base
+Belomo PK-06 reflex sight
+Burris FastFire Weaver Base
+Cobra EKP-8-18 reflex sight
+Compact mount for sights
+Cross Slot Mount base for Deltapoint scopes
+ELCAN SpecterDR 1x/4x Scope
+ELCAN SpecterDR 1x/4x Scope FDE
+Eotech 553 holographic sight
+Eotech EXPS3 holographic sight
+Eotech HHS-1 sight
+Eotech HHS-1 sight Tan
+Eotech XPS3-0 holographic sight
+Eotech XPS3-2 holographic sight
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+High profile mount for Trijicon RMR
+Holosun HS401G5 reflex sight
+Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope
+Low profile mount for Trijicon RMR
+Monstrum Compact prism scope 2x32
+NcSTAR ADO P4 Sniper 3-9x42 riflescope
+OKP-7 reflex sight
+Sig BRAVO4 4X30 Scope
+Sig Sauer mount for the sights of Romeo series.
+TA51 Mount for sights
+Trijicon SRS-02 reflex sight
+UNV DLOC-IRD Mount for sights
+Valday 1P87 holographic sight
+Valday PS-320 1x/6x Scope
+VOMZ Pilad P1X42 ""WEAVER"" reflex sight
+Vortex Razor AMG UH-1 holographic sight
+Walther MRS reflex sight
+,
+
+AN/PEQ-15 tactical device
+Holosun LS321 Tactical device
+LA-5 tactical device
+Surefire XC1 tactical flashlight
+Zenit Perst-3 tactical device
+,",Submachine gun,Primary,1.86 kg,,Skier LL2,Vertical: 62Horizontal: 440,200 m,65,Single2-round BurstFull Auto,1100,100 m,.45 ACP,.45 ACP FMJ,,"Glock .45 ACP magazine
+.45 ACP AP
+.45 ACP FMJ
+.45 ACP Hydra-Shok
+.45 ACP Lasermatch FMJ
+.45 RIP"
+51,TDI Kriss Vector Gen.2 9x19 submachinegun,"
+
+5"" barrel for Vector 9x19
+6"" barrel for Vector 9x19
+,
+
+KRISSVector Gen.2 folding stock
+KRISS Vector non folding stock adapter
+,
+
+""Big Stick"" 9x19 magazine for Glock 9x19
+Glock 9x19 magazine
+Pmag GL9 polymer magazine
+SGMT Drum mag for Glock 9x19, 50 rounds capacity
+,
+
+KRISS Vector Bottom rail
+KRISS Vector Side rail
+KRISS Mk.5 Modular rail for Vector
+,
+
+KAC Folding micro sight Frontsight
+KAC Folding sight Frontsight
+Kriss ""Defiance Low Profile Flip Up"" Frontsight
+Magpul MBUS Gen.2 Frontsight
+Magpul MBUS Gen.2 Frontsight FDE
+MP7 Flip Up Frontsight
+SIG MPX Flip Up Frontsight
+,
+
+KAC Folding micro sight Rear
+KAC Folding sight Rear
+KRISS Defiance Low Profile Flip-Up rear sight
+Magpul MBUS Gen.2 Rearsight
+Magpul MBUS Gen.2 Rearsight FDE
+MP7 Flip Up Rearsight
+SIG MPX Flip Up Rearsight
+,
+
+Aimpoint LRP mount for COMP M4 sights.
+Aimpoint mount for the sights of Micro series
+Armasight universal base
+Belomo PK-06 reflex sight
+Burris FastFire Weaver Base
+Cobra EKP-8-18 reflex sight
+Compact mount for sights
+Cross Slot Mount base for Deltapoint scopes
+ELCAN SpecterDR 1x/4x Scope
+ELCAN SpecterDR 1x/4x Scope FDE
+Eotech 553 holographic sight
+Eotech EXPS3 holographic sight
+Eotech HHS-1 sight
+Eotech HHS-1 sight Tan
+Eotech XPS3-0 holographic sight
+Eotech XPS3-2 holographic sight
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+High profile mount for Trijicon RMR
+Holosun HS401G5 reflex sight
+Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope
+Low profile mount for Trijicon RMR
+Monstrum Compact prism scope 2x32
+NcSTAR ADO P4 Sniper 3-9x42 riflescope
+OKP-7 reflex sight
+Sig BRAVO4 4X30 Scope
+Sig Sauer mount for the sights of Romeo series.
+TA51 Mount for sights
+Trijicon SRS-02 reflex sight
+UNV DLOC-IRD Mount for sights
+Valday 1P87 holographic sight
+Valday PS-320 1x/6x Scope
+VOMZ Pilad P1X42 ""WEAVER"" reflex sight
+Vortex Razor AMG UH-1 holographic sight
+Walther MRS reflex sight
+,
+
+AN/PEQ-15 tactical device
+Holosun LS321 Tactical device
+LA-5 tactical device
+Surefire XC1 tactical flashlight
+Zenit Perst-3 tactical device
+,",Submachine gun,Primary,1.8 kg,,Skier LL3,Vertical: 48Horizontal: 390,200 m,65,Single2-round BurstFull Auto,950,100 m,9x19mm Parabellum,9x19 mm Pst gzh,,"Glock 9x19 magazine
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+52,Mossberg 590A1 12ga shotgun,"
+
+20"" barrel for M590 12ga
+,
+
+Magpul MOE M590 forestock
+Speedfeed short M590A1 forestock
+,
+
+SGA stock for M590
+LEO stock adapter gen.1 for M590
+Polymer stock for M590A1
+,
+
+8-shell M590A1 12ga magazine cap
+,
+
+Ghost ring Rear sight for M590
+Tactical rail for M590
+,",Shotgun,Primary,,,Jaeger LL1,Vertical: 520Horizontal: 650,70 m,48,Single,30,100,12x70mm,12x70 7mm Buckshot,337 m/s,"8-shell M590A1 12ga magazine cap
+12/70 ""Poleva-3"" Slug
+12/70 ""Poleva-6u"" Slug
+12/70 5.25mm Buckshot
+12x70 6.5 mm ""Express"" Buckshot
+12x70 7mm Buckshot
+12/70 8.5 mm ""Magnum"" Buckshot
+12/70 AP-20 Slug
+12/70 Dual Sabot Slug
+12/70 Flechette
+12/70 FTX Custom LIte Slug
+12/70 Grizzly 40 Slug
+12/70 HP Slug ""SuperFormance""
+12/70 HP Slug Copper Sabot Premier
+12x70 Led slug
+12x70 RIP
+12x70 shell with .50 BMG bullet"
+53,Remington Model 870 12ga shotgun,"
+
+Cut off 325mm barrel for M870 12ga
+355mm barrel for M870 12ga
+508mm barrel for M870 12ga
+508mm barrel for M870 12ga with a fixed sight
+660mm vent rib barrel for M870 12ga
+,
+
+Fab Defence PR870 forestock
+Magpul MOE M870 forestock
+Speedfeed short M870 forestock
+,
+
+Fab Defence AGR-870 pistol grip for Remington-870
+LEO stock adapter for M870
+Raptor grip for M870
+Remington SPS Polymer stock for M870
+SGA stock for M870
+,
+
+4-shell M870 12ga magazine cap
+7-shell M870x7 12ga magazine
+10-shell M870x10 12ga magazine
+,
+
+MTU-028SG rail for M870
+XS Short rail with Ghost ring for M870
+,",Shotgun,Primary,3.14 kg,5x1,Skier LL2,Vertical: 520Horizontal: 650,70 m,45,Single,30,100,12x70mm,12x70 7mm Buckshot,337 m/s,"4-shell M870 12ga magazine cap
+12/70 ""Poleva-3"" Slug
+12/70 ""Poleva-6u"" Slug
+12/70 5.25mm Buckshot
+12x70 6.5 mm ""Express"" Buckshot
+12x70 7mm Buckshot
+12/70 8.5 mm ""Magnum"" Buckshot
+12/70 AP-20 Slug
+12/70 Dual Sabot Slug
+12/70 Flechette
+12/70 FTX Custom LIte Slug
+12/70 Grizzly 40 Slug
+12/70 HP Slug ""SuperFormance""
+12/70 HP Slug Copper Sabot Premier
+12x70 Led slug
+12x70 RIP
+12x70 shell with .50 BMG bullet"
+54,MP-133 12ga shotgun,"
+
+510mm barrel for MP-133 12ga
+510mm barrel for MP-133 12ga shotgun with rib
+540mm barrel for MP-133 12ga shotgun
+540mm barrel for MR-133 12ga shotgun with rib
+610mm barrel for MP-133 12ga shotgun
+610mm barrel for MP-133 12ga shotgun with rib
+660mm barrel for MR-133 12ga shotgun
+660mm barrel for MP-133 12ga shotgun with rib
+710mm barrel for MP-133 12ga shotgun
+710mm barrel for MR-133 12ga shotgun with rib
+750mm barrel for MP-133 12ga shotgun
+750mm barrel for MP-133 12ga shotgun with rib
+,
+
+Custom plastic MP-133 forestock with mounts
+Izhmekh MP-133 Beechwood forestock
+,
+
+Stock adapter Tactica Tula 12003 for MP-133/153
+Plastic pistol grip for MP-133/153
+Plastic stock for MP-133/153
+Wooden stock for MP-133/153
+,
+
+6-shell MP-133x6 12ga magazine
+8-shell MP-133x8 12ga magazine
+MP-153 forend cap
+MP-153 5-rd magazine extension
+MP-153 6-rd magazine extension
+MP-153 7-rd magazine extension
+MP-153 8-rd magazine extension
+,
+
+Kiba Arms International SPRM mount for pump-action shotguns
+Delta-tek Sprut mount for pump-action shotguns
+,",Shotgun,Primary,3.54 kg,5x1,Jaeger LL1,Vertical: 520Horizontal: 650,70 m,49,Single,30,100,12x70mm,12x70 7mm Buckshot,337 m/s,"6-shell MP-133x6 12ga magazine
+12/70 ""Poleva-3"" Slug
+12/70 ""Poleva-6u"" Slug
+12/70 5.25mm Buckshot
+12x70 6.5 mm ""Express"" Buckshot
+12x70 7mm Buckshot
+12/70 8.5 mm ""Magnum"" Buckshot
+12/70 AP-20 Slug
+12/70 Dual Sabot Slug
+12/70 Flechette
+12/70 FTX Custom LIte Slug
+12/70 Grizzly 40 Slug
+12/70 HP Slug ""SuperFormance""
+12/70 HP Slug Copper Sabot Premier
+12x70 Led slug
+12x70 RIP
+12x70 shell with .50 BMG bullet"
+55,MP-153 12ga semi-automatic shotgun,"
+
+610 mm barrel for MP-153 12ga shotgun
+660 mm barrel for MP-153 12ga shotgun
+710 mm barrel for MP-153 12ga shotgun
+750 mm barrel for MP-153 12ga shotgun
+,
+
+Izhmekh MP-153 Polymer stock
+,
+
+Stock adapter Tactica Tula 12003 for MP-133/153
+Plastic pistol grip for MP-133/153
+Plastic stock for MP-133/153
+Wooden stock for MP-133/153
+,
+
+6-shell MP-133x6 12ga magazine
+8-shell MP-133x8 12ga magazine
+MP-153 forend cap
+MP-153 5-rd magazine extension
+MP-153 6-rd magazine extension
+MP-153 7-rd magazine extension
+MP-153 8-rd magazine extension
+,
+
+Delta-tek Sprut mount for pump-action shotguns
+Kiba Arms International SPRM mount for pump-action shotguns
+,",Shotgun,Primary,3.62 kg,7x1,Jaeger LL2,Vertical: 455Horizontal: 585,70 m,43,Single,40,100,12x70mm,12x70 7mm Buckshot,377 m/s,"MP-153 forend cap
+12/70 ""Poleva-3"" Slug
+12/70 ""Poleva-6u"" Slug
+12/70 5.25mm Buckshot
+12x70 6.5 mm ""Express"" Buckshot
+12x70 7mm Buckshot
+12/70 8.5 mm ""Magnum"" Buckshot
+12/70 AP-20 Slug
+12/70 Dual Sabot Slug
+12/70 Flechette
+12/70 FTX Custom LIte Slug
+12/70 Grizzly 40 Slug
+12/70 HP Slug ""SuperFormance""
+12/70 HP Slug Copper Sabot Premier
+12x70 Led slug
+12x70 RIP
+12x70 shell with .50 BMG bullet"
+56,Saiga 12ga ver. 10 12/76 shotgun,"
+
+GK-02 Muzzle Brake
+Hexagon 12K sound suppressor
+SilencerCo Salvo 12 thread adapter
+SOK-12 Protection tube
+Tromix Monster Claw 12ga muzzle brake
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+Izhmash SOK-12 Sb.0-2 dust cover
+,
+
+Izhmash SOK-12 rear sight
+SOK-12 CSS SIGHT RAIL MOUNT rear sight
+,
+
+SOK-12 polymer handguard Sb.7-1
+SOK-12 aluminum handguard MTU002 Long Top
+SOK-12 aluminum handguard MTU002 Short Top
+SOK-12 aluminum handguard Bravo-18
+,
+
+CAA AKTS AK-74 Buffer Tube for AK and compatible (foldable)
+AK74/AK100 PT Lock
+Izhmash RPK-16 buffer tube
+Izhmash SOK-12 AK type stock
+,
+
+MaxRounds Powermag 20-round 12/76 magazine for SOK-12 and compatible weapons
+SAI-02 10-round 12x76 magazine for SOK-12 and compatible weapons
+Sb.5 5-round 12/76 magazine for SOK-12 and compatible weapons
+,
+
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+,
+
+Zenit RP-1 charge handle for AK
+,",Shotgun,Primary,3.6 kg,5x2,Jaeger LL2,Vertical: 390Horizontal: 650,70 m,55,Single,40,100,12x70mm,12x70 7mm Buckshot,328 m/s,"Sb.5 5-round 12/76 magazine for SOK-12 and compatible weapons
+12/70 ""Poleva-3"" Slug
+12/70 ""Poleva-6u"" Slug
+12/70 5.25mm Buckshot
+12x70 6.5 mm ""Express"" Buckshot
+12x70 7mm Buckshot
+12/70 8.5 mm ""Magnum"" Buckshot
+12/70 AP-20 Slug
+12/70 Dual Sabot Slug
+12/70 Flechette
+12/70 FTX Custom LIte Slug
+12/70 Grizzly 40 Slug
+12/70 HP Slug ""SuperFormance""
+12/70 HP Slug Copper Sabot Premier
+12x70 Led slug
+12x70 RIP
+12x70 shell with .50 BMG bullet"
+57,TOZ-106 bolt-action shotgun,"
+
+Custom cut mosin stock for TOZ-106
+MC 20-01 stock
+TOZ stock for TOZ-106
+,
+
+2-shot MC 20-01 Sb.3 20ga magazine for TOZ-106
+4-shot MC 20-01 Sb.3 20ga magazine for TOZ-106
+5-shot MC 20-01 Sb.3 20ga magazine for TOZ-106
+,
+
+Dovetail mount for TOZ-106
+,",Shotgun,Primary,2.715 kg,3x1,Skier LL1Jaeger LL1,Vertical: 780Horizontal: 650,70 m,68,Single,30,100,20x70mm,20x70 7.5mm Buckshot,325 m/s,"2-shot MC 20-01 Sb.3 20ga magazine for TOZ-106
+20/70 5.6mm Buckshot
+20/70 6.2mm Buckshot
+20/70 7.3mm Buckshot
+20x70 7.5mm Buckshot
+20/70 Devastator Slug
+20/70 Slug ""Poleva-3""
+20/70 Slug Poleva-6u
+20/70 Star Slug"
+58,TOZ KS-23M 23x75mm shotgun,"
+
+510mm barrel for KS-23 23x75mm
+700mm barrel for KS-23 23x75mm
+,
+
+TOZ KS-23M forestock
+,
+
+Wooden stock for KS-23
+Polymer pistol grip for KS-23M
+,
+
+3-shell KS-23M 23mm magazine cap
+,",Shotgun,Primary,3.85 kg,6x1,Prapor LL3,Vertical: 610Horizontal: 740,70 m,38,Single,30,100,23x75mm,23x75mm Shrapnel 10,415 m/s,"3-shell KS-23M 23mm magazine cap
+23x75mm ""Barricade""
+23x75mm Shrapnel 10
+23x75mm Shrapnel-25
+23x75mm ""Star"""
+59,Springfield Armory M1A 7.62x51,"
+
+16"" barrel for a M1A 7.62x51 NATO
+22"" barrel for a M1A 7.62x51 NATO
+,
+
+M14 Enlarged Military Aperture Rearsight
+,
+
+M14 M14ALCS(MOD. 0) stock
+Troy S.A.S.S. Chassis stock for M14
+M1A Archangel stock
+M1A Socom 16 stock
+,
+
+M1A 20 round 7.62x51 magazine
+M14 30 round 7.62x51 magazine
+X-14 M14 50 round 7.62x51 magazine
+,
+
+Arms 18 mount for M14
+M14 UTG 4 point locking deluxe mount
+,",Designated marksman rifle,Primary,3.99 kg,4x2,"Peacekeeper LL3: Standard variantPeacekeeper LL4: ""EBR"" variantMechanic LL3: Stripped receiverMechanic LL4: ""SASS"" variant",Vertical: 286Horizontal: 514,700 m,28,Single,700,500,7.62x51mm NATO,7.62x51 mm M80,783 m/s,"M1A 20 round 7.62x51 magazine
+7.62x51 mm BPZ FMJ
+7.62x51 mm M61
+7.62x51 mm M62
+7.62x51 mm M80
+7.62x51 mm M993
+7.62x51 mm TPZ SP
+7.62x51 mm Ultra Nosler"
+60,Mk-18 .338 LM marksman rifle,"
+
+Colt A2 AR-15 pistol grip
+DI ECS FDE pistol grip for AR-15 based systems
+Hera Arms HG-15 pistol grip for AR-15 based systems
+HK ""Battle Grip"" pistol grip for AR-15 based systems
+HK Battle Grip with Beavertail pistol grip for AR-15 based systems
+HK Ergo PSG-1 style pistol grip for AR-15 based systems
+HK Grip V.2 pistol grip for AR-15 based systems
+Hogue OverMolded Rubber Grip
+Hogue OverMolded Rubber Grip FDE
+Hogue OverMolded Rubber Grip Ghillie Earth
+Hogue OverMolded Rubber Grip Ghillie Green
+Hogue OverMolded Rubber Grip OD Green
+Magpul MOE AR-15 pistol grip
+Magpul MOE AR-15 pistol grip (FDE)
+MIAD Pistol grip for AR-15 based systems
+Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons
+SIG MCX pistol grip
+Skeletonized AR-15 pistol grip
+Stark AR Rifle Grip (black) for AR-15-compatible weapons
+Stark AR Rifle Grip (FDE) for AR-15-compatible weapons
+,
+
+ADAR buffer tube
+COLT ""A2"" buffer tube
+Colt buffer tube
+Double Star Ace Socom gen.4 stock for AR-15
+F93 Pro Stock
+HK ""Enhanced Tube"" buffer tube
+SI Advanced receiver extension buffer tube
+SI Advanced receiver extension buffer tube (anodized red)
+UBR GEN2 black stock
+UBR GEN2 FDE stock
+,
+
+Sword Int. Mk-18 .338 LM 10-round magazine
+,
+
+Sword Int. Mk-18 mod 1 Upper receiver
+,",Designated marksman rifle,Primary,6.502 kg,6x2,Jaeger LL4 after completing his task Hunter,Vertical: 630Horizontal: 1125,900 m,14,Single,30,100 m,.338 Lapua Magnum,.338 Lapua Magnum FMJ,890 m/s,"Sword Int. Mk-18 .338 LM 10-round magazine
+.338 Lapua Magnum AP
+.338 Lapua Magnum FMJ
+.338 Lapua Magnum TAC-X
+.338 UPZ Lapua Magnum"
+61,Remington R11 RSASS 7.62x51,"
+
+18"" barrel for a AR-10 and compatible 7.62x51 NATO
+22"" barrel for a AR-10 and compatible 7.62x51 NATO
+,
+
+Colt A2 AR-15 pistol grip
+DI ECS FDE pistol grip for AR-15 based systems
+Hera Arms HG-15 pistol grip for AR-15 based systems
+HK ""Battle Grip"" pistol grip for AR-15 based systems
+HK Battle Grip with Beavertail pistol grip for AR-15 based systems
+HK Ergo PSG-1 style pistol grip for AR-15 based systems
+HK Grip V.2 pistol grip for AR-15 based systems
+Hogue OverMolded Rubber Grip
+Hogue OverMolded Rubber Grip FDE
+Hogue OverMolded Rubber Grip Ghillie Earth
+Hogue OverMolded Rubber Grip Ghillie Green
+Hogue OverMolded Rubber Grip OD Green
+MIAD Pistol grip for AR-15 based systems
+Magpul MOE AR-15 pistol grip
+Magpul MOE AR-15 pistol grip (FDE)
+Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons
+Stark AR Rifle Grip (black) for AR-15-compatible weapons
+Stark AR Rifle Grip (FDE) for AR-15-compatible weapons
+Skeletonized AR-15 pistol grip
+DLG-123 pistol grip for AR-15 based systems
+,
+
+MP7 Flip Up Rearsight
+KAC Folding sight Rear
+Magpul MBUS Gen.2 Rearsight
+Magpul MBUS Gen.2 Rearsight FDE
+SIG MPX Flip Up Rearsight
+SIG MCX Flip Up sight Rearsight
+,
+
+Noveske SWS N6 10.5 inch foregrip for AR-10-compatible systems
+Noveske SWS N6 Split handguard for AR-10-compatible systems
+Remington Arms handguard for a R11 RSASS
+,
+
+COLT ""A2"" buffer tube
+Colt buffer tube
+F93 Pro Stock
+HK ""Enhanced Tube"" buffer tube
+UBR GEN2 black stock
+UBR GEN2 FDE stock
+,
+
+PMAG SR/LR GEN M3 20 7.62x51 20 rnd
+,
+
+ELCAN SpecterDR 1x/4x Scope
+ELCAN SpecterDR 1x/4x Scope FDE
+Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope
+Monstrum Compact prism scope 2x32
+Sig BRAVO4 4X30 Scope
+Valday PS-320 1x/6x Scope
+Cobra EKP-8-18 reflex sight
+OKP-7 reflex sight
+Eotech 553 holographic sight
+Eotech EXPS3 holographic sight
+Eotech HHS-1 sight
+Eotech HHS-1 sight Tan
+Eotech XPS3-0 holographic sight
+Eotech XPS3-2 holographic sight
+Holosun HS401G5 reflex sight
+Trijicon SRS-02 reflex sight
+Valday 1P87 holographic sight
+VOMZ Pilad P1X42 ""WEAVER"" reflex sight
+Vortex Razor AMG UH-1 holographic sight
+Walther MRS reflex sight
+Belomo PK-06 reflex sight
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+Aimpoint mount for the sights of Micro series
+Aimpoint LRP mount for COMP M4 sights.
+Armasight universal base
+30mm ring-mount AR- P.E.P.R. made by Burris
+Burris FastFire Weaver Base
+34mm one piece magmount made by I-E-A Mil Optics
+30mm ring-mount made by JP
+KMZ 1P69 Weaver mount
+La Rue Tactical picatinny riser QD LT-101 mount
+Cross Slot Mount base for Deltapoint scopes
+30mm Scope mount
+30mm rings made by Nightforce
+34mm one piece magmount made by Nightforce
+34mm one piece magmount made by Nightforce with a Multimount rail
+Compact mount for sights
+Sig Sauer mount for the sights of Romeo series.
+High profile mount for Trijicon RMR
+Low profile mount for Trijicon RMR
+TA51 Mount for sights
+UNV DLOC-IRD Mount for sights
+,",Designated marksman rifle,Primary,5.491 kg,5x2,Peacekeeper LL4 after completing his task Wet Job - Part 5,Vertical: 245Horizontal: 525,900 m,60,Single,700,100,7.62x51mm NATO,7.62x51 mm M80,799 m/s,"PMAG SR/LR GEN M3 20 7.62x51 20 rnd
+7.62x51 mm BPZ FMJ
+7.62x51 mm M61
+7.62x51 mm M62
+7.62x51 mm M80
+7.62x51 mm M993
+7.62x51 mm TPZ SP
+7.62x51 mm Ultra Nosler"
+62,Knight's Armament Company SR-25 7.62x51,"
+
+Upper receiver KAC 7.62x51 for SR-25 rifle
+,
+
+Colt A2 AR-15 pistol grip
+DI ECS FDE pistol grip for AR-15 based systems
+Hera Arms HG-15 pistol grip for AR-15 based systems
+HK ""Battle Grip"" pistol grip for AR-15 based systems
+HK Battle Grip with Beavertail pistol grip for AR-15 based systems
+HK Ergo PSG-1 style pistol grip for AR-15 based systems
+HK Grip V.2 pistol grip for AR-15 based systems
+Hogue OverMolded Rubber Grip
+Hogue OverMolded Rubber Grip FDE
+Hogue OverMolded Rubber Grip Ghillie Earth
+Hogue OverMolded Rubber Grip Ghillie Green
+Hogue OverMolded Rubber Grip OD Green
+MIAD Pistol grip for AR-15 based systems
+Magpul MOE AR-15 pistol grip
+Magpul MOE AR-15 pistol grip (FDE)
+Naroh Arms GRAL-S Pistol grip for AR-15-compatible weapons
+Stark AR Rifle Grip (black) for AR-15-compatible weapons
+Stark AR Rifle Grip (FDE) for AR-15-compatible weapons
+Skeletonized AR-15 pistol grip
+,
+
+Colt buffer tube
+Double Star Ace Socom gen.4 stock for AR-15
+F93 Pro Stock
+SI Advanced receiver extension buffer tube
+SI Advanced receiver extension buffer tube (anodized red)
+,
+
+KAC Steel 10 7.62x51 10 rnd
+KAC Steel 20 7.62x51 20 rnd
+PMAG SR/LR GEN M3 20 7.62x51 20 rnd
+,
+
+KAC Ambidextrous Charging Handle for AR-10
+KAC Charging Handle for SR-25
+,",Designated marksman rifle,Primary,3.860 kg,5x2,Peacekeeper LL3,Vertical: 265Horizontal: 590,900 m,37,Single,700,300,7.62x51mm NATO,7.62x51 mm M80,787 m/s,"KAC Steel 20 7.62x51 20 rnd
+7.62x51 mm BPZ FMJ
+7.62x51 mm M61
+7.62x51 mm M62
+7.62x51 mm M80
+7.62x51 mm M993
+7.62x51 mm TPZ SP
+7.62x51 mm Ultra Nosler"
+63,SVDS 7.62x54 Sniper rifle,"
+
+22"" barrel for a SVDS 7.62x54
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Izhmash SVDS pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+Custom SVDS dust cover
+Izhmash SVDS dust cover
+,
+
+Polymer stock for SVDS
+,
+
+10-round SVD 7.62x54 magazine
+20-round SVD 7.62x54 magazine
+,
+
+CAA XD RGL mount for SVD
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+SVD Low sidemount
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+SVDS Upper Band
+SAG MK1 Freefloat Chassis for SVD
+,",Designated marksman rifle,Primary,4.406 kg,6x2,Prapor LL3,Vertical: 340Horizontal: 750,900 m,32,Single,700,600,7.62x54mmR,7.62x54R 7N1 Sniper cartridge,825 m/s,"10-round SVD 7.62x54 magazine
+7.62x54R 7BT1
+7.62x54R 7N1 Sniper cartridge
+7.62x54R 7N37
+7.62x54R LPS Gzh
+7.62x54R SNB
+7.62x54R T-46M"
+64,Special Sniper Rifle VSS Vintorez,"
+
+AS VAL 9x39 integral barrel-suppressor
+VSS 9x39 integral barrel-suppressor
+,
+
+AS VAL Dust cover
+VSS Vintorez dust cover
+,
+
+TSNIITochMash VSS Vintorez stock
+,
+
+10-round 6L24 9x39 VSS magazine
+20-round 6L25 9x39 VSS magazine
+30-round SR3M.130 9x39 SR3M magazine
+,
+
+CAA XD RGL mount for SVD
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+SVD Low sidemount
+,
+
+Zenit RP-1 charge handle for AK
+,",Designated marksman rifle,Primary,2.591 kg,5x2,,Vertical: 150Horizontal: 310,400 m,56,SingleFull Auto,900,420,9x39mm,9x39 mm SP-5,295 m/s,"10-round 6L24 9x39 VSS magazine
+9x39 mm 7N9 SPP
+9x39 mm 7N12 BP
+9x39 mm SP-5
+9x39 mm SP-6"
+65,DVL-10 Saboteur sniper rifle,"
+
+500mm .308 barrel for DVL-10
+660mm .308 barrel for DVL-10 M2
+,
+
+Colt A2 AR-15 pistol grip
+DI ECS FDE pistol grip for AR-15 based systems
+Hogue OverMolded Rubber Grip
+Hogue OverMolded Rubber Grip FDE
+Hogue OverMolded Rubber Grip Ghillie Earth
+Hogue OverMolded Rubber Grip Ghillie Green
+Hogue OverMolded Rubber Grip OD Green
+MIAD Pistol grip for AR-15 based systems
+Skeletonized AR-15 pistol grip
+DLG-123 pistol grip for AR-15 based systems
+,
+
+LOBAEV Arms Stock
+,
+
+10-round .308 DVL-10 magazine
+,
+
+ELCAN SpecterDR 1x/4x Scope
+ELCAN SpecterDR 1x/4x Scope FDE
+Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope
+Monstrum Compact prism scope 2x32
+Sig BRAVO4 4X30 Scope
+Valday PS-320 1x/6x Scope
+Cobra EKP-8-18 reflex sight
+OKP-7 reflex sight
+Eotech 553 holographic sight
+Eotech EXPS3 holographic sight
+Eotech HHS-1 sight
+Eotech HHS-1 sight Tan
+Eotech XPS3-0 holographic sight
+Eotech XPS3-2 holographic sight
+Holosun HS401G5 reflex sight
+Trijicon SRS-02 reflex sight
+Valday 1P87 holographic sight
+VOMZ Pilad P1X42 ""WEAVER"" reflex sight
+Vortex Razor AMG UH-1 holographic sight
+Walther MRS reflex sight
+Belomo PK-06 reflex sight
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+Aimpoint mount for the sights of Micro series
+Aimpoint LRP mount for COMP M4 sights.
+Armasight universal base
+30mm ring-mount AR- P.E.P.R. made by Burris
+Burris FastFire Weaver Base
+34mm one piece magmount made by I-E-A Mil Optics
+30mm ring-mount made by JP
+Cross Slot Mount base for Deltapoint scopes
+30mm Scope mount
+30mm rings made by Nightforce
+34mm one piece magmount made by Nightforce
+34mm one piece magmount made by Nightforce with a Multimount rail
+Sig Sauer mount for the sights of Romeo series.
+High profile mount for Trijicon RMR
+Low profile mount for Trijicon RMR
+TA51 Mount for sights
+UNV DLOC-IRD Mount for sights
+,",Sniper rifle,Primary,5.068 kg,5x2,Skier LL3,Vertical: 130Horizontal: 650,1000 m,40,Single,30,100,7.62x51mm NATO,7.62x51 mm M80,881 m/s,"10-round .308 DVL-10 magazine
+7.62x51 mm BPZ FMJ
+7.62x51 mm M61
+7.62x51 mm M62
+7.62x51 mm M80
+7.62x51 mm M993
+7.62x51 mm TPZ SP
+7.62x51 mm Ultra Nosler"
+66,Remington Model 700 Sniper rifle,"
+
+20"" stainless steel barrel for a Remington M700 7.62x51 NATO
+26"" barrel for a Remington M700 7.62x51 NATO
+20"" barrel for a Remington M700 7.62x51 NATO
+26"" stainless steel barrel for a Remington M700 7.62x51 NATO
+,
+
+M700 MOD X Gen.3 stock
+Hogue ""Overmolded ghillie"" stock for Remington Model 700
+AT AICS polymer stock for M700
+Magpul PRO 700 chassis
+Promag Archangel polymer stock for M700
+,
+
+10-round .308 AICS M700 magazine
+5-round .308 AICS M700 magazine
+Magpul PMAG .308 AC 10-round M700 magazine
+Magpul PMAG .308 AC 5-round M700 magazine
+12-round .308 MDT AICS M700 magazine
+Promag AA-70 10-round .308 M700 magazine
+Promag AA-70 20-round .308 M700 magazine
+10-round .308 M700 magazine
+5-round .308 M700 magazine
+,
+
+A*B Arms MOD X mount for M700
+30mm ring-mount Remington integral for model 700 rifles
+Weaver extended multi-slot base for Remington model 700
+,",Sniper rifle,Primary,4.05 kg,5x1,"Peacekeeper LL3: Standard variantJaeger after completing his task Hunting tripLL3: ""ARCH"" and ""AICS"" variantsLL4: ""PRO"" and ""MRS"" variants",Vertical: 234Horizontal: 845,1000 m,33,Single,30,100,7.62x51mm NATO,7.62x51 mm M61,826 m/s,"5-round .308 M700 magazine
+7.62x51 mm BPZ FMJ
+7.62x51 mm M61
+7.62x51 mm M62
+7.62x51 mm M80
+7.62x51 mm M993
+7.62x51 mm TPZ SP
+7.62x51 mm Ultra Nosler"
+67,Mosin bolt-action sniper rifle,"
+
+Sawn off 200mm Mosin barrel
+Sawn off 220mm Mosin barrel
+Regular 514mm Mosin carbine barrel
+Regular 730mm Mosin barrel
+,
+
+ATI Monte Carlo Mosin rifle stock
+Infantry Mosin rifle stock
+Mosin carbine stock
+Mosin rifle sniper carbine stock
+ProMag Archangel OPFOR PRS Mosin rifle stock
+Regular Mosin rifle stock
+Sawn off Mosin rifle sniper stock
+Sawn off regular Mosin rifle stock
+,
+
+7.62x54r ProMag OPFOR for Archangel Mosin rifle kit, 10-round capacity
+Regular 4rnd magazine for Mosin rifle
+,
+
+Kochetov Mount for Mosin rifle
+,",Sniper rifle,Primary,4.93 kg,6x1,Prapor LL2,Vertical: 338Horizontal: 975,1000 m,17,Single,30,600,7.62x54mmR,7.62x54R 7N1 Sniper cartridge,927 m/s,"Regular 4rnd magazine for Mosin rifle
+7.62x54R 7BT1
+7.62x54R 7N1 Sniper cartridge
+7.62x54R 7N37
+7.62x54R LPS Gzh
+7.62x54R SNB
+7.62x54R T-46M"
+68,Mosin bolt-action infantry rifle,"
+
+Regular 514mm Mosin carbine barrel
+Sawn off 220mm Mosin barrel
+Sawn off 200mm Mosin barrel
+Regular 730mm Mosin barrel
+,
+
+ATI Monte Carlo Mosin rifle stock
+Sawn off regular Mosin rifle stock
+Mosin rifle sniper carbine stock
+Mosin carbine stock
+Infantry Mosin rifle stock
+Sawn off Mosin rifle sniper stock
+Regular Mosin rifle stock
+ProMag Archangel OPFOR PRS Mosin rifle stock
+,
+
+Regular 4rnd magazine for Mosin rifle
+7.62x54r ProMag OPFOR for Archangel Mosin rifle kit, 10-round capacity
+,",Sniper rifle,Primary,4.93 kg,6x1,Prapor LL1: Standard variantPrapor LL1: Carbine variant,Vertical: 338Horizontal: 975,1000 m,17,Single,30,600,7.62x54mmR,7.62x54R 7N1 Sniper cartridge,927 m/s,"Regular 4rnd magazine for Mosin rifle
+7.62x54R 7BT1
+7.62x54R 7N1 Sniper cartridge
+7.62x54R 7N37
+7.62x54R LPS Gzh
+7.62x54R SNB
+7.62x54R T-46M"
+69,SV-98 bolt-action sniper rifle,"
+
+SRVV ""Mk.2.0"" compensator 7.62x54 for SV-98
+SV-98 muzzle device
+Thread adapter 7.62x54 for SV-98
+,
+
+Izhmash SV-98 Rearsight
+,
+
+10-round polymer magazine 7.62x54R for SV-98
+,
+
+SV-98 anti-heat ribbon
+,
+
+Izhmash SV-98 bipod
+,
+
+ELCAN SpecterDR 1x/4x Scope
+ELCAN SpecterDR 1x/4x Scope FDE
+Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope
+Monstrum Compact prism scope 2x32
+Sig BRAVO4 4X30 Scope
+Valday PS-320 1x/6x Scope
+Cobra EKP-8-18 reflex sight
+OKP-7 reflex sight
+Eotech 553 holographic sight
+Eotech EXPS3 holographic sight
+Eotech HHS-1 sight
+Eotech HHS-1 sight Tan
+Eotech XPS3-0 holographic sight
+Eotech XPS3-2 holographic sight
+Holosun HS401G5 reflex sight
+Trijicon SRS-02 reflex sight
+Valday 1P87 holographic sight
+VOMZ Pilad P1X42 ""WEAVER"" reflex sight
+Vortex Razor AMG UH-1 holographic sight
+Walther MRS reflex sight
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+Aimpoint mount for the sights of Micro series
+Aimpoint LRP mount for COMP M4 sights.
+Armasight universal base
+30mm ring-mount AR- P.E.P.R. made by Burris
+Burris FastFire Weaver Base
+34mm one piece magmount made by I-E-A Mil Optics
+30mm ring-mount made by JP
+KMZ 1P69 Weaver mount
+La Rue Tactical picatinny riser QD LT-101 mount
+Cross Slot Mount base for Deltapoint scopes
+30mm Scope mount
+30mm rings made by Nightforce
+34mm one piece magmount made by Nightforce
+34mm one piece magmount made by Nightforce with a Multimount rail
+Compact mount for sights
+Sig Sauer mount for the sights of Romeo series.
+High profile mount for Trijicon RMR
+Low profile mount for Trijicon RMR
+TA51 Mount for sights
+UNV DLOC-IRD Mount for sights
+,",Sniper rifle,Primary,6.2 kg,6x1,Prapor LL3 after completing his task The Punisher - Part 1,Vertical: 156Horizontal: 520,1000 m,49,Single,30,500,7.62x54mmR,7.62x54R LPS Gzh,880 m/s,"10-round polymer magazine 7.62x54R for SV-98
+7.62x54R 7BT1
+7.62x54R 7N1 Sniper cartridge
+7.62x54R 7N37
+7.62x54R LPS Gzh
+7.62x54R SNB
+7.62x54R T-46M"
+70,Orsis T-5000 .308 sniper rifle,"
+
+660mm .308 barrel for T-5000
+,
+
+Orsis Aluminium body for T-5000
+,
+
+5-round .308 T-5000 magazine
+,
+
+Orsis scope mount for T-5000M
+,",Sniper rifle,Primary,6.348 kg,5x2,Skier LL3,Vertical: 165Horizontal: 630,1000 m,35,Single,30,100 m,7.62x51mm NATO,7.62x51 mm M80,826 m/s,"5-round .308 T-5000 magazine
+7.62x51 mm BPZ FMJ
+7.62x51 mm M61
+7.62x51 mm M62
+7.62x51 mm M80
+7.62x51 mm M993
+7.62x51 mm TPZ SP
+7.62x51 mm Ultra Nosler"
+71,Molot VPO-215 .366 TKM rifle,"
+
+23"" barrel for a VPO-215 .366TKM
+,
+
+Regular VPO-215 stock
+,
+
+Metal magazine for VPO-215 and compatibles, .366 TKM 4-round capacity
+,
+
+Scope mount for VPO-215
+,",Sniper rifle,Primary,3.3 kg,5x1,Jaeger LL1,Vertical: 245Horizontal: 585,1000 m,36,Single,30,100,.366 TKM,.366 TKM EKO,818 m/s,Metal magazine for VPO-215 and compatibles .366 TKM 4-round capacity
+72,FN GL40 Mk.2 grenade launcher,"
+
+Colt A2 AR-15 pistol grip
+DI ECS FDE pistol grip for AR-15 based systems
+HK ""Battle Grip"" pistol grip for AR-15 based systems
+Hogue OverMolded Rubber Grip
+Hogue OverMolded Rubber Grip FDE
+Hogue OverMolded Rubber Grip Ghillie Earth
+Hogue OverMolded Rubber Grip Ghillie Green
+Hogue OverMolded Rubber Grip OD Green
+MIAD Pistol grip for AR-15 based systems
+Skeletonized AR-15 pistol grip
+DLG-123 pistol grip for AR-15 based systems
+,
+
+MP7 Flip Up Frontsight
+KAC Folding micro sight Frontsight
+KAC Folding sight Frontsight
+Magpul MBUS Gen.2 Frontsight
+Magpul MBUS Gen.2 Frontsight FDE
+SIG MPX Flip Up Frontsight
+,
+
+HK 416A5 Flip Up Rearsight
+MP7 Flip Up Rearsight
+KAC Folding micro sight Rear
+KAC Folding sight Rear
+Magpul MBUS Gen.2 Rearsight
+Magpul MBUS Gen.2 Rearsight FDE
+SIG MPX Flip Up Rearsight
+,
+
+ELCAN SpecterDR 1x/4x Scope
+ELCAN SpecterDR 1x/4x Scope FDE
+Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope
+Monstrum Compact prism scope 2x32
+Sig BRAVO4 4X30 Scope
+Valday PS-320 1x/6x Scope
+Cobra EKP-8-18 reflex sight
+OKP-7 reflex sight
+Eotech 553 holographic sight
+Eotech EXPS3 holographic sight
+Eotech HHS-1 sight
+Eotech HHS-1 sight Tan
+Eotech XPS3-0 holographic sight
+Eotech XPS3-2 holographic sight
+Holosun HS401G5 reflex sight
+Trijicon SRS-02 reflex sight
+Valday 1P87 holographic sight
+VOMZ Pilad P1X42 ""WEAVER"" reflex sight
+Vortex Razor AMG UH-1 holographic sight
+Walther MRS reflex sight
+Belomo PK-06 reflex sight
+FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+Aimpoint mount for the sights of Micro series
+Aimpoint LRP mount for COMP M4 sights.
+Burris FastFire Weaver Base
+Cross Slot Mount base for Deltapoint scopes
+Sig Sauer mount for the sights of Romeo series.
+High profile mount for Trijicon RMR
+Low profile mount for Trijicon RMR
+TA51 Mount for sights
+UNV DLOC-IRD Mount for sights
+,
+
+Glock Tactical GL21 flashlight with laser
+Holosun LS321 Tactical device
+AN/PEQ-15 tactical device
+LA-5 tactical device
+NcSTAR Tactical blue laser LAM-Module
+Steiner Dbal PL tactical flashlight
+LAS/TAC 2 tactical flashlight
+X400 tactical flashlight
+Surefire XC1 tactical flashlight
+Zenit 2IRS Klesch flashlight + laser designator
+Zenit 2P Klesch flashlight + laser designator
+Zenit 2U Klesch tactical flashlight
+Zenit Perst-3 tactical device
+25 mm mount ring
+Holosun LS321 Tactical device
+AN/PEQ-15 tactical device
+AN/PEQ-2 tactical device
+LA-5 tactical device
+Zenit Perst-3 tactical device
+,",Grenade launcher,Primary,2.920 kg,3x2,,Vertical: 200Horizontal: 400,50 m,120,Single,30,100,40x46 mm,40x46 mm M381 (HE),76 m/s,"
+40x46 mm M381 (HE)
+40x46 mm M386(HE)
+40x46 mm M406 (HE)
+40x46 mm M433 (HEDP)
+40x46 mm M441(HE)
+40x46 mm M576(MP-APERS)20"
+73,Silenced Stechkin Automatic Pistol 9x18PM,"
+
+Silencer APB 9x18PM
+,
+
+APS bakelite side-pieces
+,
+
+APS Frontsight
+,
+
+APB Rearsight
+APS Rearsight
+,
+
+APB detachable wire stock
+,
+
+Standard APS 9x18PM 20-round magazine
+,",Pistol,Secondary,1.611 kg,4x1,Prapor LL3,Vertical: 455Horizontal: 260,50 m,79,SingleFull Auto,750,200,9x18mm Makarov,9x18 mm PM 9 BZT gzh,290 m/s,"Standard APS 9x18PM 20-round magazine
+9x18 mm PM 9 BZT gzh
+9x18 mm PM 9 P gzh
+9x18 mm PM PBM
+9x18 mm PM PMM
+9x18 mm PM PPe gzh
+9x18 mm PM PPT gzh
+9x18 mm PM PRS gs
+9x18 mm PM PS gs PPO
+9x18 mm PM PSO gzh
+9x18 mm PM Pst gzh
+9x18 mm PM PSV
+9x18 PM mm RG028 gzh
+9x18 mm PM SP7 gzh
+9x18 mm PM SP8 gzh"
+74,Stechkin Automatic Pistol 9x18PM,"
+
+APS bakelite side-pieces
+,
+
+APS Frontsight
+,
+
+APB Rearsight
+APS Rearsight
+,
+
+APB detachable wire stock
+,
+
+Standard APS 9x18PM 20-round magazine
+,",Pistol,Secondary,1.021 kg,2x1,Prapor LL2,Vertical: 455Horizontal: 260,50 m,75,SingleFull Auto,750,200,9x18mm Makarov,9x18 mm PM 9 BZT gzh,288 m/s,"Standard APS 9x18PM 20-round magazine
+9x18 mm PM 9 BZT gzh
+9x18 mm PM 9 P gzh
+9x18 mm PM PBM
+9x18 mm PM PMM
+9x18 mm PM PPe gzh
+9x18 mm PM PPT gzh
+9x18 mm PM PRS gs
+9x18 mm PM PS gs PPO
+9x18 mm PM PSO gzh
+9x18 mm PM Pst gzh
+9x18 mm PM PSV
+9x18 PM mm RG028 gzh
+9x18 mm PM SP7 gzh
+9x18 mm PM SP8 gzh"
+75,FN Five-seveN MK2 5.7x28 pistol,"
+
+Barrel for Five-seveN 5.7x28
+Threaded barrel for Five-seveN 5.7x28
+,
+
+Five-seveN MK2 pistol slide
+,
+
+Five-seveN 20-Round 5.7x28 magazine
+,
+
+NcSTAR Tactical blue laser LAM-Module
+Glock Tactical GL21 flashlight with laser
+Steiner Dbal PL tactical flashlight
+LAS/TAC 2 tactical flashlight
+X400 tactical flashlight
+Surefire XC1 tactical flashlight
+Zenit 2IRS Klesch flashlight + laser designator
+Zenit 2P Klesch flashlight + laser designator
+UM Tactical UM3 Sight Mount
+,",Pistol,Secondary,0.752 kg,2x1,Peacekeeper LL3,Vertical: 330Horizontal: 240,50 m,86,Single,30,200,5.7x28mm FN,5.7x28 mm SS190,706 m/s,"Five-seveN 20-Round 5.7x28 magazine
+5.7x28 mm L191
+5.7x28 mm R37.F
+5.7x28 mm R37.X
+5.7x28 mm SB193
+5.7x28 mm SS190
+5.7x28 mm SS197SR
+5.7x28 mm SS198LF"
+76,GLOCK 17 9x19 pistol,"
+
+Barrel with compensator for Glock 17 9x19
+Basic barrel for Glock 17 9x19
+Threaded barrel for Glock 9x19 manufactured by Double Diamond
+Threaded barrel for Glock 9x19 manufactured by Lone Wolf.
+Threaded barrel for Glock 9x19 manufactured by Salient Arms
+,
+
+Pachmayr tactical rubber grip
+,
+
+Glock 9x19 Moto Cut slide
+Glock 9x19 slide
+Glock 9x19 Viper Cut slide
+Glock Alpha Wolf Custom slide
+Glock Alpha Wolf slide
+Glock Zev Tech Hex Spartan slide
+Polymer80 PS9 Glock slide
+Zev Tech Hex Gen3 slide
+,
+
+""Big Stick"" 9x19 magazine for Glock 9x19
+Glock 9x19 magazine
+Pmag GL9 polymer magazine
+SGMT Drum mag for Glock 9x19, 50 rounds capacity
+,
+
+Fischer Development FD917 suppressor
+Glock Tactical GL21 flashlight with laser
+NcSTAR Tactical blue laser LAM-Module
+LAS/TAC 2 tactical flashlight
+X400 tactical flashlight
+Surefire XC1 tactical flashlight
+Zenit 2IRS Klesch flashlight + laser designator
+Zenit 2P Klesch flashlight + laser designator
+Aimtech glock base
+UM Tactical UM3 Sight Mount
+,
+
+Aimtech Tiger Shark
+,
+
+Fab Defence GLR-17 Stock for Glock and compatible
+,",Pistol,Secondary,0.877 kg,2x1,Mechanic LL1: Standard and stripped variant,Vertical: 365Horizontal: 260,50 m,90,Single,30,200,9x19mm Parabellum,9x19 mm Pst gzh,467 m/s,"Glock 9x19 magazine
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+77,GLOCK 18C 9x19 pistol,"
+
+Barrel with compensator for Glock 18C 9x19
+,
+
+Pachmayr tactical rubber grip
+,
+
+Glock 18C 9x19 slide
+,
+
+""Big Stick"" 9x19 magazine for Glock 9x19
+Glock 9x19 magazine
+Pmag GL9 polymer magazine
+SGMT Drum mag for Glock 9x19, 50 rounds capacity
+,
+
+Glock Tactical GL21 flashlight with laser
+NcSTAR Tactical blue laser LAM-Module
+LAS/TAC 2 tactical flashlight
+X400 tactical flashlight
+Surefire XC1 tactical flashlight
+Zenit 2IRS Klesch flashlight + laser designator
+Zenit 2P Klesch flashlight + laser designator
+Aimtech glock base
+UM Tactical UM3 Sight Mount
+,
+
+Aimtech Tiger Shark
+,
+
+Fab Defence GLR-17 Stock for Glock and compatible
+,",Pistol,Secondary,0.842 kg,2x1,Mechanic LL3,Vertical: 360Horizontal: 286,50 m,90,SingleFull Auto,1200,200,9x19mm Parabellum,9x19 mm PSO gzh,467 m/s,"Glock 9x19 magazine
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+78,Colt M1911A1 .45 ACP pistol,"
+
+Standart barrel for M1911A1 .45 ACP
+Threaded barrel for M1911A1 .45 ACP
+National match barrel for M1911 .45 ACP
+,
+
+Standart polymerpistol grip for M1911A1
+Pachmayr ""American legend grip 423 for M1911A1
+Standart polymerpistol grip for M45A1
+,
+
+M1911A1 .45 ACP slide
+M45A1 .45 ACP slide
+,
+
+M1911 .45 ACP 7-round magazine
+M45A1 .45 ACP 7-round magazine
+Mec-Gar .45 ACP 11-round magazine for M1911A1
+,
+
+Caspian Trik Trigger for M1911A1
+Trigger for M1911A1
+Trigger for M45A1
+,
+
+Hammer for M1911A1
+STI HEX Hammer for M1911A1
+Hammer for M1911A1 (alternative)
+Wilson Ultralight skeletonized hammer for M1911A1
+Hammer for M45A1
+,
+
+Slide lock for M1911A1
+Wilson Extended slide stop for M1911A1
+Slide lock for M45A1
+,
+
+Weigand Weig-a-tinny mount for M1911A1
+NCStar Trigger guard mount for M1911A1
+,",Pistol,Secondary,1.214 kg,2x1,Peacekeeper LL2,Vertical: 530Horizontal: 355,50 m,82,Single,30,100,.45 ACP,.45 ACP FMJ,278 m/s,"M1911 .45 ACP 7-round magazine
+.45 ACP AP
+.45 ACP FMJ
+.45 ACP Hydra-Shok
+.45 ACP Lasermatch FMJ
+.45 RIP"
+79,Colt M45A1 .45 ACP pistol,"
+
+Standart barrel for M1911A1 .45 ACP
+National match barrel for M1911 .45 ACP
+Threaded barrel for M1911A1 .45 ACP
+,
+
+Standart polymerpistol grip for M45A1
+,
+
+M1911A1 .45 ACP slide
+M45A1 .45 ACP slide
+,
+
+M1911 .45 ACP 7-round magazine
+M45A1 .45 ACP 7-round magazine
+Mec-Gar .45 ACP 11-round magazine for M1911A1
+,
+
+Caspian Trik Trigger for M1911A1
+Trigger for M1911A1
+Trigger for M45A1
+,
+
+Hammer for M45A1
+STI HEX Hammer for M1911A1
+Hammer for M1911A1 (alternative)
+Wilson Ultralight skeletonized hammer for M1911A1
+,
+
+Slide lock for M1911A1
+Slide lock for M45A1
+Wilson Extended slide stop for M1911A1
+,
+
+Glock Tactical GL21 flashlight with laser
+NcSTAR Tactical blue laser LAM-Module
+Steiner Dbal PL tactical flashlight
+LAS/TAC 2 tactical flashlight
+X400 tactical flashlight
+Surefire XC1 tactical flashlight
+Zenit 2IRS Klesch flashlight + laser designator
+Zenit 2P Klesch flashlight + laser designator
+Zenit 2U Klesch tactical flashlight
+,",Pistol,Secondary,1.188 kg,2x1,,Vertical: 515Horizontal: 325,50 m,78,Single,30,200,.45 ACP,.45 ACP FMJ,281 m/s,"M45A1 .45 ACP 7-round magazine
+.45 ACP AP
+.45 ACP FMJ
+.45 ACP Hydra-Shok
+.45 ACP Lasermatch FMJ
+.45 RIP"
+80,Beretta M9A3 9x19 pistol,"
+
+Threaded barrel for M9A3 9x19
+,
+
+Polymer pistol grip for M9A3
+,
+
+M9A3 9x19 pistol slide
+,
+
+M9A3 9x19 17-round magazine
+,
+
+Zenit 2IRS Klesch flashlight + laser designator
+Zenit 2P Klesch flashlight + laser designator
+Bridge Sight Mount for P226
+Glock Tactical GL21 flashlight with laser
+LAS/TAC 2 tactical flashlight
+NcSTAR Tactical blue laser LAM-Module
+Surefire XC1 tactical flashlight
+UM Tactical UM3 Sight Mount
+X400 tactical flashlight
+,",Pistol,Secondary,0.818 kg,2x1,Peacekeeper LL1,Vertical: 515Horizontal: 280,50 m,75,Single,30,200,9x19mm Parabellum,9x19 mm Pst gzh,446 m/s,"M9A3 9x19 17-round magazine
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+81,Yarygin MP-443 Grach 9x19 pistol,"
+
+Polymer Izhmekh pistol grip for MP-443
+,
+
+MP-443 9x19 18-round magazine
+,
+
+B-8 mount
+,",Pistol,Secondary,0.95 kg,2x1,Prapor LL1,Vertical: 520Horizontal: 325,50 m,80,Single,30,100,9x19mm Parabellum,9x19 mm PSO gzh,449 m/s,"MP-443 9x19 18-round magazine
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+82,P226R 9x19 pistol,"
+
+112mm barrel for P226 9x19
+Threaded barrel for P226 9x19
+,
+
+Axelson Tacical MK.25 pistol grip for P226
+Black polymer Sig Sauer pistol grip for P226
+Emperor scorpion Sig Sauer pistol grip for P226
+Hogue Chain link pistol grip for P226
+Rubber with finger grooves pistol grip for P226
+Sig Sauer FDE pistol grip for P226 (Combat)
+Wooden Sig Sauer Elite pistol grip for P226
+,
+
+P226 Axelson tactical Mk.25 pistol slide
+P226 Sig Emperor scorpion pistol slide
+P226 Sig Legion full size pistol slide
+P226 Sig Stainless elite pistol slide
+SIG Sauer P226R 9x19 pistol slide
+,
+
+P226 Extended magazine 9x19
+P226 magazine
+,
+
+Glock Tactical GL21 flashlight with laser
+NcSTAR Tactical blue laser LAM-Module
+LAS/TAC 2 tactical flashlight
+X400 tactical flashlight
+Surefire XC1 tactical flashlight
+Zenit 2IRS Klesch flashlight + laser designator
+Zenit 2P Klesch flashlight + laser designator
+UM Tactical UM3 Sight Mount
+Bridge Sight Mount for P226
+,",Pistol,Secondary,0.802 kg,2x1,Peacekeeper LL2: Standard variantMechanic LL2: Stripped variant,Vertical: 490Horizontal: 305,50 m,86,Single,30,200,9x19mm Parabellum,9x19 mm PSO gzh,467 m/s,"P226 magazine
+9x19 mm 7N31
+9x19 mm AP 6.3
+9x19 mm Green Tracer
+9x19 mm Luger CCI
+9x19 mm PSO gzh
+9x19 mm Pst gzh
+9x19 mm QuakeMaker
+9x19 mm RIP"
+83,PB 9x18PM silenced pistol,"
+
+Stock silencer for PB 9x18 PM
+,
+
+TSNIITOCHMASH bakelite PB side grips
+,
+
+PM/PPSH 9x18PM 84-round drum mag for PM
+90-93 9x18PM Magazine, for 8 PM rounds
+,",Pistol,Secondary,0.951 kg,2x1,Prapor LL3,Vertical: 455Horizontal: 260,50 m,83,Single,30,100,9x18mm Makarov,9x18 mm PM 9 BZT gzh,265 m/s,90-93 9x18PM Magazine for 8 PM rounds
+84,PL-15 9x19 pistol,"
+
+Regular barrel for PL-15 9x19
+Threaded barrel for PL-15
+,
+
+PL-15 pistol slide
+,
+
+PL-15 9x19 magazine, 16-round capacity
+,
+
+Glock Tactical GL21 flashlight with laser
+LAS/TAC 2 tactical flashlight
+Steiner Dbal PL tactical flashlight
+Surefire XC1 tactical flashlight
+X400 tactical flashlight
+,
+
+UM Tactical UM3 Sight Mount
+,",Pistol,Secondary,0.94 kg,2x1,Prapor LL3,Vertical: 340Horizontal: 235,50 m,93,Single,30,200,9x19mm Parabellum,9x19 mm Pst gzh,457 m/s,PL-15 9x19 magazine 16-round capacity
+85,PM (t) 9x18PM pistol,"
+
+AAC Illusion 9 9x19mm silencer
+Alpha Dog Alpha 9 9x19 sound suppressor
+Direct Thread Mount adapter for Silencerco Hybrid 46.
+Sig SRD 9 9x19mm sound suppressor
+SilencerCo Osprey 9 9x19mm sound suppressor
+,
+
+90-93 9x18PM Magazine, for 8 PM rounds
+PM/PPSH 9x18PM 84-round drum mag for PM
+,",Pistol,Secondary,0.734 kg,2x1,,Vertical: 510Horizontal: 325,50 m,80,Single,30,100,9x18mm Makarov,9x18 mm PM 9 BZT gzh,288 m/s,90-93 9x18PM Magazine for 8 PM rounds
+86,PM 9x18PM pistol,"
+
+90-93 9x18PM Magazine, for 8 PM rounds
+PM/PPSH 9x18PM 84-round drum mag for PM
+,",Pistol,Secondary,0.73 kg,2x1,Prapor LL1,Vertical: 510Horizontal: 325,50 m,85,Single,30,100,9x18mm Makarov,9x18 mm PM 9 BZT gzh,288 m/s,90-93 9x18PM Magazine for 8 PM rounds
+87,9x21 Serdyukov automatic pistol SR1MP Gyurza,"
+
+SR1-MP magazine
+,
+
+SR1MP quad rail mount
+SR1MP single rail mount
+,",Pistol,Secondary,0.895 kg,2x1,Prapor LL3,Vertical: 520Horizontal: 325,50 m,82,Single,30,100,9x21mm Gyurza,9x21 mm SP10,410 m/s,"SR1-MP magazine
+9x21 mm SP10
+9x21 mm SP11
+9x21 mm SP12
+9x21 mm SP13"
+88,TT pistol 7.62x25 TT,"
+
+PM-Laser DTK-TT muzzle brake for TT pistol
+,
+
+116mm 7.62x25 TT barrel
+116mm 7.62x25 TT gilded barrel
+Homespun 121mm 7.62x25 TT barrel with threading
+,
+
+Fancy TT side grips
+Hogue like TT rubber grips
+PM-Laser TT-206 side grips with LAM
+Razor Arms TT rubber grips
+Standard TT side grips
+,
+
+TT-105 7.62x25 TT Magazine
+,
+
+DLP ""Tactical Precision"" LAM Module for TT Pistol
+,",Pistol,Secondary,0.874 kg,2x1,Prapor LL1,Vertical: 650Horizontal: 325,50 m,75,Single,30,100,7.62x25mm Tokarev,7.62x25mm TT FMJ43,420 m/s,"TT-105 7.62x25 TT Magazine
+7.62x25mm TT AKBS
+7.62x25mm TT FMJ43
+7.62x25mm TT LRN
+7.62x25mm TT LRNPC
+7.62x25mm TT P gl
+7.62x25mm TT Pst gzh
+7.62x25mm TT PT gzh"
+89,TT pistol 7.62x25 TT Gold,"
+
+PM-Laser DTK-TT muzzle brake for TT pistol
+,
+
+116mm 7.62x25 TT barrel
+116mm 7.62x25 TT gilded barrel
+Homespun 121mm 7.62x25 TT barrel with threading
+,
+
+Fancy TT side grips
+Hogue like TT rubber grips
+PM-Laser TT-206 side grips with LAM
+Razor Arms TT rubber grips
+Standard TT side grips
+,
+
+TT-105 7.62x25 TT Magazine
+,
+
+DLP ""Tactical Precision"" LAM Module for TT Pistol
+,",Pistol,Secondary,0.874 kg,2x1,,Vertical: 650Horizontal: 325,50 m,75,Single,30,100,7.62x25mm Tokarev,7.62x25mm TT FMJ43,420 m/s,"TT-105 7.62x25 TT Magazine
+7.62x25mm TT AKBS
+7.62x25mm TT FMJ43
+7.62x25mm TT LRN
+7.62x25mm TT LRNPC
+7.62x25mm TT P gl
+7.62x25mm TT Pst gzh
+7.62x25mm TT PT gzh"
+154,RPK-16 5.45x39 light machine gun,"
+
+15"" barrel for RPK-16 and compatible 5.45x39
+22"" barrel for RPK-16 and compatible 5.45x39
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+,
+
+Izhmash regular dust cover for RPK-16
+,
+
+Izhmash RPK-16 regular handguard
+,
+
+Izhmash RPK-16 buffer tube
+,
+
+6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons
+6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons
+30-round 6L23 5.45x39 magazine for AK-74 and compatibles
+30-round 6L23 Plum 5.45x39 magazine for AK-74 and compatibles
+45-round 6L26 5.45x39 magazine for AK-74 and compatibles
+60-round 6L31 5.45x39 magazine for AK-74 and compatibles
+10-round Saiga 545 5.45x39 magazine for AK-74 and compatibles
+Pmag 30 AK74 GEN M3 5.45x39 magazine for AK and compatibles, 30-round capacity
+30-round 5.45x39 magazine for AK-12 and compatibles
+95-round 5.45x39 magazine for RPK-16 and compatibles
+,
+
+Zenit RP-1 charge handle for AK
+,",Light machine gun,Primary,3.832 kg,5x2,Prapor LL4,Vertical: 131Horizontal: 370,650 m,34,SingleFull Auto,650,600,5.45x39mm,5.45x39 mm BP,839 m/s,"95-round 5.45x39 magazine for RPK-16 and compatibles
+5.45x39 mm 7N39 ""Igolnik""
+5.45x39 mm BP
+5.45x39 mm BS
+5.45x39 mm BT
+5.45x39 mm FMJ
+5.45x39 mm HP
+5.45x39 mm PP
+5.45x39 mm PRS
+5.45x39 mm PS
+5.45x39 mm SP
+5.45x39 mm T
+5.45x39 mm US"
+162,SVDS 7.62x54 Sniper rifle,"
+
+22"" barrel for a SVDS 7.62x54
+,
+
+Izhmash AK-12 regular pistol grip
+Izhmash AK bakelite pistol grip (6P4 Sb.8V)
+Izhmash AK polymer pistol grip (6P1 Sb.8)
+Izhmash AKM bakelite pistol grip
+Wooden Izhmash AKM pistol grip for AK
+Izhmash AK-74 Textolite pistol grip (6P4 Sb.9)
+KGB MG-47 pistol grip for AK
+Magpul MOE pistol grip for AK
+Molot AK bakelite pistol grip
+SI Enhanced pistol grip for AK
+SI Enhanced pistol grip for AK FDE
+TAPCO SAW-Style black pistol grip for AK
+TAPCO SAW-Style FDE pistol grip for AK
+US Palm pistol grip for AK
+Zenit RK-3 AK pistol grip
+PP-19-01 Izhmash pistol grip
+Izhmash SVDS pistol grip
+Aeroknox scorpius pistol grip for AK
+,
+
+Custom SVDS dust cover
+Izhmash SVDS dust cover
+,
+
+Polymer stock for SVDS
+,
+
+10-round SVD 7.62x54 magazine
+20-round SVD 7.62x54 magazine
+,
+
+CAA XD RGL mount for SVD
+Zenit-Belomo PSO 1 4x24 scope
+Zenit-Belomo PSO 1M2-1 4x24 scope
+Zenit-Belomo PSO 1M2 4x24 scope
+SVD Low sidemount
+Cobra EKP-8-02 reflex sight
+OKP-7 reflex sight (Dovetail)
+NPZ USP-1 4x scope
+NSPU-M night Scope
+Axion Cobra mount
+KMZ 1P59 Dovetail mount
+Pilad 043-02 Mount
+B-13 rail platform
+B-13V rail platform above reciever ""Classic""
+SVDS Upper Band
+SAG MK1 Freefloat Chassis for SVD
+,",Designated marksman rifle,Primary,4.406 kg,6x2,Prapor LL3,Vertical: 340Horizontal: 750,900 m,32,Single,700,600,7.62x54mmR,7.62x54R 7N1 Sniper cartridge,825 m/s,"10-round SVD 7.62x54 magazine
+7.62x54R 7BT1
+7.62x54R 7N1 Sniper cartridge
+7.62x54R 7N37
+7.62x54R LPS Gzh
+7.62x54R SNB
+7.62x54R T-46M"
